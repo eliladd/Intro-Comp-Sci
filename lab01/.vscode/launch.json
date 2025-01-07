@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TurtleExample",
+            "request": "launch",
+            "mainClass": "TurtleExample",
+            "projectName": "lab01_cf4c6ae8"
+        },
+        {
+            "type": "java",
+            "name": "GuessANumber",
+            "request": "launch",
+            "mainClass": "GuessANumber",
+            "projectName": "lab01_cf4c6ae8"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "lab01_cf4c6ae8"
+        },
+        {
+            "type": "java",
+            "name": "FirstProgram",
+            "request": "launch",
+            "mainClass": "FirstProgram",
+            "projectName": "lab01_cf4c6ae8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Any Main",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "lab01"
+        }
+    ]
+}
