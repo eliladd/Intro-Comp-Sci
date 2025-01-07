@@ -16,7 +16,7 @@ public class FirstProgram
         // print doesn't include the newline 
         // newline is the invisible character that makes the next thing you print go on the next line
         // while println does include the newline
-        System.out.print("Printing without a newline ")
+        System.out.print("Printing without a newline ");
         System.out.print("look where this is!");
 
         // This is a variable. It's of type 'String'.

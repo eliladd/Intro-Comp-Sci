@@ -5,8 +5,8 @@ public class ForLoop
         // These are variables! One is for the number of rows, 
         // and the other is for the number of columns.
 
-        int numRows = 5;
-        int numCols = 8;
+        int numRows = 2;
+        int numCols = 80;
         
         // This is a for loop! In fact it's two for loops that are nested.
         // There's a lot of syntax here, but we don't need to change very much of it
@@ -17,7 +17,7 @@ public class ForLoop
             {
                 System.out.print("*");
             }
-            System.out.println();
+            //System.out.println();
         }
     }
 }
