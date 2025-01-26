@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "lab03_df6f6c75"
+        },
+        {
+            "type": "java",
+            "name": "Launch Any Main",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "lab02"
+        }
+    ]
+}
