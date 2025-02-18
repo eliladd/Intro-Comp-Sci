@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AppMapExample",
+            "request": "launch",
+            "mainClass": "AppMapExample",
+            "projectName": "calendar-events_64ce3c26"
+        },
+        {
+            "type": "java",
+            "name": "AnalyzeEventDataEasy",
+            "request": "launch",
+            "mainClass": "AnalyzeEventDataEasy",
+            "projectName": "calendar-events_64ce3c26"
+        },
+        {
+            "type": "java",
+            "name": "AppUploadEvents",
+            "request": "launch",
+            "mainClass": "AppUploadEvents",
+            "projectName": "calendar-events_64ce3c26"
+        },
+        {
+            "type": "java",
+            "name": "AppCheckEvents",
+            "request": "launch",
+            "mainClass": "AppCheckEvents",
+            "projectName": "calendar-events_64ce3c26"
+        },
+        {
+            "type": "java",
+            "name": "ManualEventList",
+            "request": "launch",
+            "mainClass": "ManualEventList",
+            "projectName": "calendar-events_32b25cd4"
+        },
+        {
+            "type": "java",
+            "name": "AppCheckEvents",
+            "request": "launch",
+            "mainClass": "AppCheckEvents",
+            "projectName": "calendar-events_32b25cd4"
+        },
+        {
+            "type": "java",
+            "name": "AnalyzeEventDataEasy",
+            "request": "launch",
+            "mainClass": "AnalyzeEventDataEasy",
+            "projectName": "calendar-events_32b25cd4"
+        },
+        {
+            "type": "java",
+            "name": "AppMapExample",
+            "request": "launch",
+            "mainClass": "AppMapExample",
+            "projectName": "calendar-events_32b25cd4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Any Main",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "lab06"
+        }
+    ]
+}

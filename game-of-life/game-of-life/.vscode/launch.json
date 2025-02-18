@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainGUI",
+            "request": "launch",
+            "mainClass": "MainGUI",
+            "projectName": "game-of-life_3dc0c24b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Any Main",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "gameoflife"
+        }
+    ]
+}

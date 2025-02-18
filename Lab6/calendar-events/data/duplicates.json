@@ -1,0 +1,47 @@
+[
+    {
+    "id": 1,
+    "name": "Birthday of Alan Turing",
+    "description": "Alan Turing, the father of theoretical computer science and artificial intelligence, was born. He played a crucial role in breaking the Enigma code during World War II.",
+    "date": "1912-06-23",
+    "type": "Birthday",
+    "location": "London, England",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Alan Turing",
+      "AI",
+      "Cryptography"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Birthday of Grace Hopper",
+    "description": "Grace Hopper, an American computer scientist and United States Navy rear admiral, was born. She popularized the term 'debugging' for fixing computer glitches.",
+    "date": "1906-12-09",
+    "type": "Birthday",
+    "location": "New York, USA",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Grace Hopper",
+      "COBOL",
+      "Programming Languages"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Birthday of Alan Turing",
+    "description": "Alan Turing, the father of theoretical computer science and artificial intelligence, was born. He played a crucial role in breaking the Enigma code during World War II.",
+    "date": "1912-06-23",
+    "type": "Birthday",
+    "location": "London, England",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Alan Turing",
+      "AI",
+      "Cryptography"
+    ]
+  }
+]

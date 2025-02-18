@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "name": "Jim Rice",
+    "description": "A legendary left fielder for the Boston Red Sox.",
+    "date": "1953-10-22",
+    "type": "Birthday",
+    "location": "Anderson, South Carolina",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Boston Red Sox",
+      "MLB",
+      "Hall of Famer"
+    ]
+  }, 
+  {
+    "id": 1,
+    "name": "Birthday of Alan Turing",
+    "description": "Alan Turing, the father of theoretical computer science and artificial intelligence, was born. He played a crucial role in breaking the Enigma code during World War II.",
+    "date": "1912-06-23",
+    "type": "Birthday",
+    "location": "London, England",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Alan Turing",
+      "AI",
+      "Cryptography"
+    ]
+  }
+]

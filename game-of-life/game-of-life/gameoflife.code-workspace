@@ -1,0 +1,35 @@
+{
+    "folders": [
+      {
+        "path": "."
+      }
+    ],
+    "settings": {
+      "java.project.sourcePaths": [
+        "src"
+      ],
+      "java.project.referencedLibraries": [
+        "lib/*.jar"
+      ],
+      "java.configuration.updateBuildConfiguration": "automatic",
+      "java.debug.settings.forceBuildBeforeLaunch": true,
+      "java.debug.settings.console": "integratedTerminal"
+    },
+    
+    "launch": {
+      "configurations": [
+        {
+          "type": "java",
+          "name": "Launch Any Main",
+          "request": "launch",
+          "mainClass": "",
+          "projectName": "gameoflife"
+        }
+      ]
+    },
+    "extensions": {
+      "recommendations": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }

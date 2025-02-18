@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=hedgehog
+comment0.text=\n\ Write\ a\ description\ of\ class\ hedgehog\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveWithKeys()
+comment3.params=
+comment3.target=void\ showStatus()
+comment4.params=
+comment4.target=void\ addPoints()
+comment5.params=
+comment5.target=void\ loseLife()
+comment6.params=
+comment6.target=void\ hitPizza()
+comment7.params=
+comment7.target=void\ hitBalloon()
+comment8.params=
+comment8.target=void\ testEndGame()
+comment9.params=
+comment9.target=void\ testWinGame()
+numComments=10

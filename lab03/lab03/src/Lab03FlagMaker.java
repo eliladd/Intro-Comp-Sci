@@ -266,48 +266,250 @@ public class Lab03FlagMaker
     @Flag(name="Bisexual", num=10)
     public static void drawBisexualFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=0; r<(grid.getNumRows()/5)*2; r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.PINK);
+            }
+        }
+        for (int r=(grid.getNumRows()/5)*2; r<(grid.getNumRows()/5)*3; r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.MAGENTA);
+            }
+        }
+        for (int r=(grid.getNumRows()/5)*3; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.BLUE);
+            }
+        }
     }
 
 
     @Flag(name="Comoros", num=11)
     public static void drawComorosFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=0; r<grid.getNumRows()/4; r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.YELLOW);
+            }
+        }
+        for (int r=(grid.getNumRows()/4)*2; r<(grid.getNumRows()/4)*3; r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.RED);
+            }
+        }
+        for (int r=(grid.getNumRows()/4)*3; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.BLUE);
+            }
+        }
+        //draw a triangle that goes to the middle
+        for (int r=0; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                if(r*2 == c&& r < grid.getNumRows()/2||r*2>c&& r < grid.getNumRows()/2)
+                {
+                    grid.setColor(r, c, Color.GREEN);
+                    grid.setColor(r, c+1, Color.GREEN);
+                
+                }
+            }
+        }
+        int NUM =0;
+        for (int row=grid.getNumRows()/2; row<grid.getNumRows();row++){
+            for (int c= 0; c<(row*2)-(NUM*2);c++){
+                grid.setColor(row, c, Color.GREEN);
+            }
+            NUM+=2;
+        }
     }
 
 
     @Flag(name="CzechRepublic", num=12)
     public static void drawCzechRepublicFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=grid.getNumRows()/2; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.RED);
+            }
+        }
+        //draw a triangle that goes to the middle
+        for (int r=0; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                if(r*2 == c&& r < grid.getNumRows()/2||r*2>c&& r < grid.getNumRows()/2)
+                {
+                    grid.setColor(r, c, Color.BLUE);
+                    grid.setColor(r, c+1, Color.BLUE);
+                
+                }
+            }
+        }
+        int NUM =0;
+        for (int row=grid.getNumRows()/2; row<grid.getNumRows();row++){
+            for (int c= 0; c<(row*2)-(NUM*2);c++){
+                grid.setColor(row, c, Color.BLUE);
+            }
+            NUM+=2;
+        }
     }
 
 
     @Flag(name="Antigua", num=13)
     public static void drawAntiguaFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=0; r<grid.getNumRows()/3;r++){
+            for (int c=0; c<grid.getNumCols();c++){
+                grid.setColor(r, c, Color.BLACK);
+            }
+        }
+        
+        for (int r=grid.getNumRows()/3; r<(grid.getNumRows()/3)*2;r++){
+            for (int c=0; c<grid.getNumCols();c++){
+                grid.setColor(r, c, Color.BLUE);    
+            }
+        }
+
+        for (int r=0; r<grid.getNumRows();r++){
+            for (int c= 0; c<((r+1));c++){
+                grid.setColor(r, c, Color.RED);
+            }
+        }
+        for (int r=0; r<grid.getNumRows();r++){
+            for (int c= 0; c<(r+1);c++){
+                grid.setColor(r, grid.getNumCols()-1-c, Color.RED);
+                
+            }
+        }
     }
 
 
     @Flag(name="Bangladesh", num=14)
     public static void drawBangladeshFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=0; r<grid.getNumRows();r++){
+            for (int c=0; c<grid.getNumCols();c++){
+                grid.setColor(r, c, Color.GREEN);
+            }
+        }
+        for (int r=grid.getNumRows()/3; r<(grid.getNumRows()/3)*2;r++){
+            for (int c=grid.getNumCols()/3; c<(grid.getNumCols()/3)*2;c++){
+                grid.setColor(r, c, Color.RED);
+            }
+        }
     }
 
 
     @Flag(name="Macedonia", num=15)
     public static void drawMacedoniaFlag(IDrawGrid grid)
     {
-        // your code here
+        //blue background
+        for (int r=0; r<grid.getNumRows(); r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.RED);
+            }
+        }
+        
+        //yellow cross
+        for (int r=0; r<grid.getNumRows(); r++)
+        {
+            for (int c=(grid.getNumCols()/2)-1; c<(grid.getNumCols()/2)+1; c++)
+            {
+                grid.setColor(r, c, Color.YELLOW);
+            }
+        }
+        for (int r=grid.getNumRows()/2-1; r<grid.getNumRows()/2+1; r++)
+        {
+            for (int c=0; c<grid.getNumCols(); c++)
+            {
+                grid.setColor(r, c, Color.YELLOW);
+            }
+        }
+        //yellow cross
+        for (int r=0; r<grid.getNumRows(); r++){
+            for (int c=0; c<grid.getNumCols(); c++){
+                if(r*2 == c){
+                    grid.setColor(r, c, Color.YELLOW);
+                    grid.setColor(r, c+1, Color.YELLOW);
+                }
+            }
+        }
+        //draw a black cross from the top right to the bottom left
+        int offset = 0;
+        for (int r=grid.getNumRows()-1; r>=0;r--){
+            int c=offset;
+            grid.setColor(r, c, Color.YELLOW);
+            grid.setColor(r, c+1, Color.YELLOW);
+            offset+=2; 
+        }
+        
     }
 
 
     @Flag(name="Guyana", num=16)
     public static void drawGuyanaFlag(IDrawGrid grid)
     {
-        // your code here
+        for (int r=0; r<grid.getNumRows();r++){
+            for (int c=0; c<grid.getNumCols();c++){
+                grid.setColor(r, c, Color.GREEN);
+            }
+        }
+        //yellow triangle
+        for (int r=0; r<grid.getNumRows()/2;r++){
+            for (int c= 0; c<((r+1)*4);c++){
+                grid.setColor(r, c, Color.YELLOW);
+            }
+        }
+        int NUM =0;
+        for (int r=grid.getNumRows()/2; r<grid.getNumRows();r++){
+            for (int c= 0; c<(r*4)-(NUM*4);c++){
+                grid.setColor(r, c, Color.YELLOW);
+            }
+            NUM+=2;
+        }
+        //black lines
+        NUM = 0;
+        for (int r =0; r<grid.getNumRows();r++){
+            if (r<grid.getNumRows()/2){
+                int c= r+1;
+                grid.setColor(r, c, Color.BLACK);
+            }
+            else{
+                int c = r-NUM;
+                grid.setColor(r, c, Color.BLACK);
+                NUM+=2;
+            }
+        }
+        //red triangle
+        for (int r=0; r<grid.getNumRows()/2;r++){
+            for (int c= 0; c<((r+1));c++){
+                grid.setColor(r, c, Color.RED);
+            }
+        }
+        NUM =0;
+        for (int r=grid.getNumRows()/2; r<grid.getNumRows();r++){
+            for (int c= 0; c<r-NUM;c++){
+                grid.setColor(r, c, Color.RED);
+            }
+            NUM+=2;
+        }
+        
     }    
 }

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=images
+comment3.target=void\ animateMovement(greenfoot.GreenfootImage[])
+comment4.params=
+comment4.target=void\ checkForScreenChange()
+numComments=5

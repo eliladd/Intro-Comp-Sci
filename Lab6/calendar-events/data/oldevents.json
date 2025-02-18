@@ -1,0 +1,3980 @@
+[
+    {
+      "id": 1,
+      "name": "Birthday of Alan Turing",
+      "description": "Alan Turing, the father of theoretical computer science and artificial intelligence, was born. He played a crucial role in breaking the Enigma code during World War II.",
+      "date": "1912-06-23",
+      "type": "Birthday",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Alan Turing",
+        "AI",
+        "Cryptography"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Birthday of Grace Hopper",
+      "description": "Grace Hopper, an American computer scientist and United States Navy rear admiral, was born. She popularized the term 'debugging' for fixing computer glitches.",
+      "date": "1906-12-09",
+      "type": "Birthday",
+      "location": "New York, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Grace Hopper",
+        "COBOL",
+        "Programming Languages"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Birthday of John McCarthy",
+      "description": "John McCarthy, the inventor of the Lisp programming language and a pioneer in AI, was born. He coined the term 'Artificial Intelligence'.",
+      "date": "1927-09-04",
+      "type": "Birthday",
+      "location": "Boston, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "John McCarthy",
+        "Lisp",
+        "AI"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Birthday of Donald Knuth",
+      "description": "Donald Knuth, an American computer scientist and the author of 'The Art of Computer Programming', was born. He created the TeX typesetting system.",
+      "date": "1938-01-10",
+      "type": "Birthday",
+      "location": "Milwaukee, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Donald Knuth",
+        "Algorithms",
+        "TAOCP"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Birthday of Tim Berners-Lee",
+      "description": "Tim Berners-Lee, the inventor of the World Wide Web, was born. He is currently a professor at MIT.",
+      "date": "1955-06-08",
+      "type": "Birthday",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Tim Berners-Lee",
+        "World Wide Web",
+        "Internet"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Birthday of Ada Lovelace",
+      "description": "Ada Lovelace, an English mathematician and writer, chiefly known for her work on Charles Babbage's early mechanical general-purpose computer, was born. She is often considered the first computer programmer.",
+      "date": "1815-12-09",
+      "type": "Birthday",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Ada Lovelace",
+        "First Programmer",
+        "Analytical Engine"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Birthday of Edsger W. Dijkstra",
+      "description": "Edsger W. Dijkstra, a Dutch computer scientist and a pioneer in computing science, was born. He developed the shortest path algorithm that bears his name.",
+      "date": "1930-05-11",
+      "type": "Birthday",
+      "location": "Rotterdam, Netherlands",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Edsger Dijkstra",
+        "Algorithms",
+        "Computing Science"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Birthday of Claude Shannon",
+      "description": "Claude Shannon, an American mathematician, electrical engineer, and cryptographer known as 'the father of information theory', was born. He built the first wearable computer.",
+      "date": "1916-04-30",
+      "type": "Birthday",
+      "location": "Petoskey, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Claude Shannon",
+        "Information Theory",
+        "Cryptography"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Birthday of John von Neumann",
+      "description": "John von Neumann, a Hungarian-American mathematician, physicist, computer scientist, and polymath, was born. He developed the concept of the stored-program computer.",
+      "date": "1903-12-28",
+      "type": "Birthday",
+      "location": "Budapest, Hungary",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "John von Neumann",
+        "Game Theory",
+        "Von Neumann Architecture"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Birthday of Marvin Minsky",
+      "description": "Marvin Minsky, an American cognitive scientist in the field of artificial intelligence, was born. He co-founded the MIT Media Lab.",
+      "date": "1927-08-09",
+      "type": "Birthday",
+      "location": "New York, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Marvin Minsky",
+        "AI",
+        "Cognitive Science"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Birthday of Vint Cerf",
+      "description": "Vint Cerf, an American internet pioneer, recognized as one of 'the fathers of the Internet', was born. He is currently the Chief Internet Evangelist at Google.",
+      "date": "1943-06-23",
+      "type": "Birthday",
+      "location": "New Haven, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Vint Cerf",
+        "Internet",
+        "TCP/IP"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Birthday of Ken Thompson",
+      "description": "Ken Thompson, an American pioneer of computer science, was born. He created the B programming language, a precursor to C.",
+      "date": "1943-02-04",
+      "type": "Birthday",
+      "location": "New Orleans, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Ken Thompson",
+        "Unix",
+        "B"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Birthday of Brian Kernighan",
+      "description": "Brian Kernighan, a Canadian computer scientist who contributed to the development of Unix, was born. He co-authored the first book on the C programming language.",
+      "date": "1942-01-01",
+      "type": "Birthday",
+      "location": "Toronto, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Brian Kernighan",
+        "Unix",
+        "C"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Birthday of Barbara Liskov",
+      "description": "Barbara Liskov, an American computer scientist who developed the Liskov substitution principle, was born. She was one of the first women in the United States to earn a Ph.D. in computer science.",
+      "date": "1939-11-07",
+      "type": "Birthday",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Barbara Liskov",
+        "Liskov Substitution Principle",
+        "Programming Languages"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Birthday of Bjarne Stroustrup",
+      "description": "Bjarne Stroustrup, a Danish computer scientist, known for the creation and development of the C++ programming language, was born. He wrote the first C++ compiler.",
+      "date": "1950-12-30",
+      "type": "Birthday",
+      "location": "Aarhus, Denmark",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Bjarne Stroustrup",
+        "C++",
+        "Programming Languages"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Birthday of James Gosling",
+      "description": "James Gosling, a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language, was born. He also invented the original Unix Emacs editor.",
+      "date": "1955-05-19",
+      "type": "Birthday",
+      "location": "Calgary, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "James Gosling",
+        "Java",
+        "Programming Languages"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Birthday of Linus Torvalds",
+      "description": "Linus Torvalds, a Finnish software engineer, the creator and principal developer of the Linux kernel, was born. He also created the Git version control system.",
+      "date": "1969-12-28",
+      "type": "Birthday",
+      "location": "Helsinki, Finland",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Linus Torvalds",
+        "Linux",
+        "Open Source"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Birthday of Richard Stallman",
+      "description": "Richard Stallman, an American free software movement activist and programmer, was born. He launched the GNU Project and founded the Free Software Foundation.",
+      "date": "1953-03-16",
+      "type": "Birthday",
+      "location": "New York, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Richard Stallman",
+        "Free Software",
+        "GNU"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Birthday of Dennis Ritchie",
+      "description": "Dennis Ritchie, an American computer scientist who created the C programming language and co-developed the Unix operating system, was born. He received the Turing Award in 1983.",
+      "date": "1941-09-09",
+      "type": "Birthday",
+      "location": "Bronxville, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Dennis Ritchie",
+        "C",
+        "Unix"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Birthday of Steve Wozniak",
+      "description": "Steve Wozniak, an American electronics engineer, co-founder of Apple Inc., was born. He single-handedly designed the Apple I and Apple II computers.",
+      "date": "1950-08-11",
+      "type": "Birthday",
+      "location": "San Jose, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Steve Wozniak",
+        "Apple",
+        "Computers"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Birthday of Margaret Hamilton",
+      "description": "Margaret Hamilton, an American computer scientist who developed the onboard flight software for NASA's Apollo missions, was born. She coined the term 'software engineering'.",
+      "date": "1936-08-17",
+      "type": "Birthday",
+      "location": "Paoli, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Margaret Hamilton",
+        "Apollo",
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Birthday of Radia Perlman",
+      "description": "Radia Perlman, an American computer scientist known as the 'Mother of the Internet', was born. She invented the spanning-tree protocol (STP).",
+      "date": "1951-12-18",
+      "type": "Birthday",
+      "location": "Portsmouth, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Radia Perlman",
+        "Networking",
+        "STP"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Birthday of Adele Goldberg",
+      "description": "Adele Goldberg, an American computer scientist who was a member of the team that developed the Smalltalk programming language, was born. She influenced the design of the graphical user interface (GUI).",
+      "date": "1945-07-22",
+      "type": "Birthday",
+      "location": "Cleveland, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Adele Goldberg",
+        "Smalltalk",
+        "GUI"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Birthday of Karen Spärck Jones",
+      "description": "Karen Spärck Jones, a British computer scientist known for her pioneering work in natural language processing and information retrieval, was born. She introduced the concept of inverse document frequency (IDF).",
+      "date": "1935-08-26",
+      "type": "Birthday",
+      "location": "Huddersfield, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Karen Spärck Jones",
+        "NLP",
+        "IDF"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Birthday of Mary Lou Jepsen",
+      "description": "Mary Lou Jepsen, an American engineer and inventor known for her work in display technology, was born. She co-founded One Laptop per Child.",
+      "date": "1965-11-21",
+      "type": "Birthday",
+      "location": "Fairbanks, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mary Lou Jepsen",
+        "Display Technology",
+        "OLPC"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Birthday of Roshni Naik",
+      "description": "Roshni Naik, a computer scientist known for her work in cybersecurity, was born. She is a leader in advocating for diversity in tech.",
+      "date": "1985-03-12",
+      "type": "Birthday",
+      "location": "Mumbai, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Roshni Naik",
+        "Cybersecurity",
+        "Diversity in Tech"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Birthday of Fei-Fei Li",
+      "description": "Fei-Fei Li, a Chinese-American computer scientist known for her work in artificial intelligence, was born. She led the creation of the ImageNet database.",
+      "date": "1976-04-14",
+      "type": "Birthday",
+      "location": "Beijing, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Fei-Fei Li",
+        "AI",
+        "ImageNet"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Birthday of Anita Borg",
+      "description": "Anita Borg, an American computer scientist who founded the Institute for Women and Technology, was born. She established the Grace Hopper Celebration of Women in Computing.",
+      "date": "1949-01-17",
+      "type": "Birthday",
+      "location": "Chicago, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Anita Borg",
+        "Women in Tech",
+        "GHC"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Birthday of Frances E. Allen",
+      "description": "Frances E. Allen, an American computer scientist and the first woman to win the Turing Award, was born. She made significant contributions to optimizing compilers.",
+      "date": "1932-08-04",
+      "type": "Birthday",
+      "location": "Peru, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Frances E. Allen",
+        "Compilers",
+        "Turing Award"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Birthday of Ellen Spertus",
+      "description": "Ellen Spertus, an American computer scientist known for her work on recommender systems, was born. She is also an advocate for women in technology.",
+      "date": "1967-10-16",
+      "type": "Birthday",
+      "location": "Chicago, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Ellen Spertus",
+        "Recommender Systems",
+        "Women in Tech"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Birthday of Sophie Wilson",
+      "description": "Sophie Wilson, a British computer scientist who designed the Acorn Micro-Computer and co-designed the ARM architecture, was born. She is a transgender pioneer in computing.",
+      "date": "1957-06-01",
+      "type": "Birthday",
+      "location": "Leeds, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Sophie Wilson",
+        "ARM",
+        "Microcomputers"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Birthday of Shafi Goldwasser",
+      "description": "Shafi Goldwasser, an Israeli-American computer scientist and winner of the Turing Award, was born. She co-invented zero-knowledge proofs.",
+      "date": "1958-11-14",
+      "type": "Birthday",
+      "location": "New York, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Shafi Goldwasser",
+        "Cryptography",
+        "Zero-Knowledge Proofs"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Birthday of Janese Swanson",
+      "description": "Janese Swanson, an American inventor and educator, co-creator of the Carmen Sandiego software series, was born. She holds multiple patents in software and technology.",
+      "date": "1958-11-07",
+      "type": "Birthday",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Janese Swanson",
+        "Carmen Sandiego",
+        "Patents"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Birthday of Manuela Veloso",
+      "description": "Manuela Veloso, a Portuguese-American computer scientist known for her work in artificial intelligence and robotics, was born. She is a former president of AAAI.",
+      "date": "1957-08-12",
+      "type": "Birthday",
+      "location": "Lisbon, Portugal",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Manuela Veloso",
+        "AI",
+        "Robotics"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Birthday of Chieko Asakawa",
+      "description": "Chieko Asakawa, a blind Japanese computer scientist who invented the IBM Home Page Reader, was born. She has been an advocate for accessibility in technology.",
+      "date": "1958-12-12",
+      "type": "Birthday",
+      "location": "Osaka, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Chieko Asakawa",
+        "Accessibility",
+        "IBM"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Birthday of Daphne Koller",
+      "description": "Daphne Koller, an Israeli-American computer scientist and co-founder of Coursera, was born. She has made significant contributions to machine learning and online education.",
+      "date": "1968-08-27",
+      "type": "Birthday",
+      "location": "Jerusalem, Israel",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Daphne Koller",
+        "Machine Learning",
+        "Coursera"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Birthday of Telle Whitney",
+      "description": "Telle Whitney, an American computer scientist and former CEO of the Anita Borg Institute for Women and Technology, was born. She co-founded the Grace Hopper Celebration of Women in Computing.",
+      "date": "1956-09-14",
+      "type": "Birthday",
+      "location": "Salt Lake City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Telle Whitney",
+        "Women in Tech",
+        "GHC"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Birthday of Ayanna Howard",
+      "description": "Ayanna Howard, an American roboticist and the first woman to lead the Georgia Tech School of Interactive Computing, was born. She is a pioneer in the field of robotics and AI.",
+      "date": "1972-01-24",
+      "type": "Birthday",
+      "location": "Providence, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Ayanna Howard",
+        "Robotics",
+        "AI"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Birthday of Tracy Chou",
+      "description": "Tracy Chou, an American software engineer and diversity advocate in tech, was born. She founded Project Include to promote diversity in the tech industry.",
+      "date": "1987-06-01",
+      "type": "Birthday",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Tracy Chou",
+        "Diversity",
+        "Project Include"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Birthday of Edie Windsor",
+      "description": "Edie Windsor, an American computer programmer and LGBTQ activist, was born. She was a senior systems programmer at IBM and a key figure in the fight for marriage equality.",
+      "date": "1929-06-20",
+      "type": "Birthday",
+      "location": "Philadelphia, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Edie Windsor",
+        "LGBTQ",
+        "IBM"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Birthday of Shigeru Miyamoto",
+      "description": "Shigeru Miyamoto, a Japanese video game designer and producer, was born. He is best known for creating iconic franchises such as Super Mario, The Legend of Zelda, and Donkey Kong.",
+      "date": "1952-11-16",
+      "type": "Birthday",
+      "location": "Sonobe, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Shigeru Miyamoto",
+        "Nintendo",
+        "Super Mario"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Birthday of Hideo Kojima",
+      "description": "Hideo Kojima, a Japanese video game designer, director, and producer, was born. He is the creator of the Metal Gear series and founder of Kojima Productions.",
+      "date": "1963-08-24",
+      "type": "Birthday",
+      "location": "Tokyo, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Hideo Kojima",
+        "Metal Gear",
+        "Kojima Productions"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Birthday of Jade Raymond",
+      "description": "Jade Raymond, a Canadian video game producer and executive, was born. She is known for her work on the Assassin's Creed and Watch Dogs series.",
+      "date": "1975-08-28",
+      "type": "Birthday",
+      "location": "Montreal, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Jade Raymond",
+        "Assassin's Creed",
+        "Watch Dogs"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Birthday of Kim Swift",
+      "description": "Kim Swift, an American video game designer, was born. She is known for her work on Portal and Left 4 Dead at Valve Corporation.",
+      "date": "1983-05-14",
+      "type": "Birthday",
+      "location": "Santa Clara, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Kim Swift",
+        "Portal",
+        "Left 4 Dead"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Birthday of Roberta Williams",
+      "description": "Roberta Williams, an American video game designer and co-founder of Sierra On-Line, was born. She is best known for her work on the King's Quest series.",
+      "date": "1953-02-16",
+      "type": "Birthday",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Roberta Williams",
+        "Sierra On-Line",
+        "King's Quest"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Birthday of Brenda Romero",
+      "description": "Brenda Romero, an American game designer, artist, and writer, was born. She is known for her work on the Wizardry series and her board game series, The Mechanic is the Message.",
+      "date": "1966-10-12",
+      "type": "Birthday",
+      "location": "Ogdensburg, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Brenda Romero",
+        "Wizardry",
+        "The Mechanic is the Message"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Birthday of Yoko Shimomura",
+      "description": "Yoko Shimomura, a Japanese composer and pianist primarily known for her work in video games, was born. She composed music for Kingdom Hearts and Final Fantasy XV.",
+      "date": "1967-10-19",
+      "type": "Birthday",
+      "location": "Hyogo, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Yoko Shimomura",
+        "Kingdom Hearts",
+        "Final Fantasy"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Birthday of Rebecca Heineman",
+      "description": "Rebecca Heineman, an American video game designer and programmer, was born. She is the first national video game tournament champion.",
+      "date": "1963-10-30",
+      "type": "Birthday",
+      "location": "Whittier, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Rebecca Heineman",
+        "Programming",
+        "Tournament Champion"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Birthday of Robert Yang",
+      "description": "Robert Yang, an American video game designer and developer, was born. He is known for his work on games that explore themes of queerness and intimacy.",
+      "date": "1985-11-15",
+      "type": "Birthday",
+      "location": "Chicago, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Robert Yang",
+        "Queer Themes",
+        "Intimacy"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Birthday of Matilda Ekh",
+      "description": "Matilda Ekh, a Swedish non-binary video game designer and artist, was born. They are known for their work on the game 'Celeste' which won multiple awards for its narrative and design.",
+      "date": "1990-07-21",
+      "type": "Birthday",
+      "location": "Stockholm, Sweden",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Matilda Ekh",
+        "Celeste",
+        "Game Design"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Signing of the Treaty of Versailles",
+      "description": "The Treaty of Versailles was signed, ending World War I and imposing heavy reparations and territorial losses on Germany.",
+      "date": "1919-06-28",
+      "type": "Treaty",
+      "location": "Versailles, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Treaty of Versailles",
+        "World War I",
+        "Germany"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Discovery of Penicillin",
+      "description": "Alexander Fleming discovered penicillin, the world's first antibiotic, revolutionizing medicine and saving countless lives.",
+      "date": "1928-09-28",
+      "type": "Discovery",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Penicillin",
+        "Alexander Fleming",
+        "Antibiotic"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Declaration of Independence",
+      "description": "The United States declared its independence from Great Britain, marking the beginning of the American Revolution.",
+      "date": "1776-07-03",
+      "type": "Independence",
+      "location": "Philadelphia, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Declaration of Independence",
+        "American Revolution",
+        "USA"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Invention of the Telephone",
+      "description": "Alexander Graham Bell was awarded the first US patent for the invention of the telephone, a device that would transform global communication.",
+      "date": "1876-03-06",
+      "type": "Invention",
+      "location": "Boston, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Telephone",
+        "Alexander Graham Bell",
+        "Communication"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "First Moon Landing",
+      "description": "NASA's Apollo 11 mission successfully landed the first humans on the Moon, with Neil Armstrong taking the historic first step.",
+      "date": "1969-07-20",
+      "type": "Exploration",
+      "location": "Moon",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Apollo 11",
+        "Moon Landing",
+        "NASA"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Assassination of Abraham Lincoln",
+      "description": "President Abraham Lincoln was assassinated by John Wilkes Booth at Ford's Theatre, dramatically altering the course of American history.",
+      "date": "1865-04-13",
+      "type": "Assassination",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Abraham Lincoln",
+        "Assassination",
+        "John Wilkes Booth"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Premiere of Beethoven's Ninth Symphony",
+      "description": "Ludwig van Beethoven's Ninth Symphony premiered in Vienna, featuring the famous 'Ode to Joy' and marking a pinnacle of classical music.",
+      "date": "1824-05-06",
+      "type": "Cultural Milestone",
+      "location": "Vienna, Austria",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Beethoven",
+        "Ninth Symphony",
+        "Classical Music"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "French Revolution Begins",
+      "description": "The French Revolution began with the storming of the Bastille, leading to the overthrow of the monarchy and radical social and political changes.",
+      "date": "1789-07-13",
+      "type": "Revolution",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "French Revolution",
+        "Bastille",
+        "Monarchy"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Independence of Vietnam",
+      "description": "Vietnam declared its independence from French colonial rule, leading to the establishment of the Democratic Republic of Vietnam.",
+      "date": "1945-09-02",
+      "type": "Independence",
+      "location": "Hanoi, Vietnam",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Vietnam",
+        "Independence",
+        "French Colonial Rule"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Independence of India",
+      "description": "India gained independence from British rule, marking the end of nearly 200 years of colonial domination.",
+      "date": "1947-08-15",
+      "type": "Independence",
+      "location": "New Delhi, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "India",
+        "Independence",
+        "British Rule"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Independence of Pakistan",
+      "description": "Pakistan was established as an independent nation, partitioned from India, marking the end of British rule in the region.",
+      "date": "1947-08-14",
+      "type": "Independence",
+      "location": "Karachi, Pakistan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Pakistan",
+        "Independence",
+        "Partition"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Independence of Bangladesh",
+      "description": "Bangladesh declared its independence from Pakistan after a brutal conflict, leading to the creation of a new nation.",
+      "date": "1971-03-26",
+      "type": "Independence",
+      "location": "Dhaka, Bangladesh",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Bangladesh",
+        "Independence",
+        "Pakistan"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Independence of Nepal",
+      "description": "Nepal, though never colonized, marks its sovereignty and independence, recognized internationally after the fall of the Rana regime.",
+      "date": "1951-02-18",
+      "type": "Independence",
+      "location": "Kathmandu, Nepal",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Nepal",
+        "Independence",
+        "Rana Regime"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Battle of Waterloo",
+      "description": "The Battle of Waterloo was a decisive battle in which Napoleon was defeated by the Duke of Wellington and Prussian forces. It marked the end of the Napoleonic Wars.",
+      "date": "1815-06-17",
+      "type": "Battle",
+      "location": "Waterloo, Belgium",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Napoleon",
+        "Wellington",
+        "Blucher",
+        "Waterloo"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Battle of Gettysburg",
+      "description": "The Battle of Gettysburg was a turning point in the American Civil War, fought between Union and Confederate forces. It is known for President Lincoln's Gettysburg Address.",
+      "date": "1863-06-30",
+      "type": "Battle",
+      "location": "Gettysburg, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Gettysburg",
+        "Civil War",
+        "Union",
+        "Confederate"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Battle of Stalingrad",
+      "description": "The Battle of Stalingrad was a major battle during World War II in which the Soviet Union defeated Nazi Germany. It is considered one of the bloodiest battles in history.",
+      "date": "1942-08-23",
+      "type": "Battle",
+      "location": "Stalingrad, USSR",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Stalingrad",
+        "WWII",
+        "Soviet Union",
+        "Nazi Germany"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Battle of Hastings",
+      "description": "The Battle of Hastings was fought between the Norman-French army of William the Conqueror and the English army under King Harold II. It led to the Norman conquest of England.",
+      "date": "1066-10-13",
+      "type": "Battle",
+      "location": "Hastings, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Hastings",
+        "William the Conqueror",
+        "Norman",
+        "Harold II"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Battle of the Somme",
+      "description": "The Battle of the Somme was one of the largest battles of World War I, involving British and French forces against the German Empire. It is known for the high number of casualties.",
+      "date": "1916-07-01",
+      "type": "Battle",
+      "location": "Somme, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Somme",
+        "WWI",
+        "British",
+        "French",
+        "German"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Battle of Midway",
+      "description": "The Battle of Midway was a crucial naval battle during World War II between the United States and Japan. It is considered the turning point in the Pacific Theater.",
+      "date": "1942-06-04",
+      "type": "Battle",
+      "location": "Midway Atoll, Pacific Ocean",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Midway",
+        "WWII",
+        "United States",
+        "Japan"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Battle of Agincourt",
+      "description": "The Battle of Agincourt was fought between the English army led by King Henry V and the French army during the Hundred Years' War. The English victory was notable for the use of longbows.",
+      "date": "1415-10-24",
+      "type": "Battle",
+      "location": "Agincourt, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Agincourt",
+        "Henry V",
+        "Hundred Years' War",
+        "Longbow"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Battle of Trafalgar",
+      "description": "The Battle of Trafalgar was a naval engagement fought between the British Royal Navy and the combined fleets of France and Spain. It established British naval supremacy.",
+      "date": "1805-10-20",
+      "type": "Battle",
+      "location": "Cape Trafalgar, Spain",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Trafalgar",
+        "Naval Battle",
+        "British Navy",
+        "Nelson"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Battle of Yorktown",
+      "description": "The Battle of Yorktown was the last major battle of the American Revolutionary War. The American and French forces, led by General George Washington, defeated the British Army.",
+      "date": "1781-10-18",
+      "type": "Battle",
+      "location": "Yorktown, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Yorktown",
+        "Revolutionary War",
+        "George Washington",
+        "British"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Battle of Verdun",
+      "description": "The Battle of Verdun was one of the longest and costliest battles of World War I, fought between French and German armies.",
+      "date": "1916-02-21",
+      "type": "Battle",
+      "location": "Verdun, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Verdun",
+        "WWI",
+        "French Army",
+        "German Army"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Assassination of Julius Caesar",
+      "description": "Julius Caesar, the Roman dictator, was assassinated by a group of Roman senators led by Brutus and Cassius.",
+      "date": "0044-03-14",
+      "type": "Assassination",
+      "location": "Rome, Roman Republic",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Julius Caesar",
+        "Roman Senate",
+        "Ides of March"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Assassination of Archduke Franz Ferdinand",
+      "description": "Archduke Franz Ferdinand of Austria and his wife Sophie were assassinated by Gavrilo Princip, a Bosnian Serb nationalist. This event is often cited as the spark that ignited World War I.",
+      "date": "1914-06-28",
+      "type": "Assassination",
+      "location": "Sarajevo, Bosnia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Franz Ferdinand",
+        "WWI",
+        "Gavrilo Princip"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Assassination of John F. Kennedy",
+      "description": "President John F. Kennedy was assassinated by Lee Harvey Oswald while riding in a motorcade in Dallas, Texas.",
+      "date": "1963-11-22",
+      "type": "Assassination",
+      "location": "Dallas, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "John F. Kennedy",
+        "Lee Harvey Oswald",
+        "Dallas"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Assassination of Martin Luther King Jr.",
+      "description": "Civil rights leader Martin Luther King Jr. was assassinated by James Earl Ray while standing on the balcony of the Lorraine Motel in Memphis, Tennessee.",
+      "date": "1968-04-04",
+      "type": "Assassination",
+      "location": "Memphis, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Martin Luther King Jr.",
+        "James Earl Ray",
+        "Civil Rights"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Assassination of Robert F. Kennedy",
+      "description": "Senator Robert F. Kennedy was assassinated by Sirhan Sirhan shortly after delivering a speech at the Ambassador Hotel in Los Angeles.",
+      "date": "1968-06-05",
+      "type": "Assassination",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Robert F. Kennedy",
+        "Sirhan Sirhan",
+        "Ambassador Hotel"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Assassination of Mahatma Gandhi",
+      "description": "Mahatma Gandhi, leader of the Indian independence movement, was assassinated by Nathuram Godse in New Delhi.",
+      "date": "1948-01-30",
+      "type": "Assassination",
+      "location": "New Delhi, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mahatma Gandhi",
+        "Nathuram Godse",
+        "Indian Independence"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Assassination of Malcolm X",
+      "description": "Civil rights activist Malcolm X was assassinated by members of the Nation of Islam while giving a speech at the Audubon Ballroom in New York City.",
+      "date": "1965-02-21",
+      "type": "Assassination",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Malcolm X",
+        "Nation of Islam",
+        "Civil Rights"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Assassination of Yitzhak Rabin",
+      "description": "Israeli Prime Minister Yitzhak Rabin was assassinated by Yigal Amir, a right-wing extremist, at a peace rally in Tel Aviv.",
+      "date": "1995-11-04",
+      "type": "Assassination",
+      "location": "Tel Aviv, Israel",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Yitzhak Rabin",
+        "Yigal Amir",
+        "Peace Rally"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Assassination of Indira Gandhi",
+      "description": "Prime Minister Indira Gandhi of India was assassinated by her own bodyguards, Satwant Singh and Beant Singh, in New Delhi.",
+      "date": "1984-10-31",
+      "type": "Assassination",
+      "location": "New Delhi, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Indira Gandhi",
+        "Satwant Singh",
+        "Beant Singh"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Assassination of Benazir Bhutto",
+      "description": "Former Prime Minister Benazir Bhutto of Pakistan was assassinated in a suicide bombing attack during a political rally in Rawalpindi.",
+      "date": "2007-12-27",
+      "type": "Assassination",
+      "location": "Rawalpindi, Pakistan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Benazir Bhutto",
+        "Suicide Bombing",
+        "Pakistan Politics"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Assassination of Leon Trotsky",
+      "description": "Leon Trotsky, a Russian revolutionary and Marxist theorist, was assassinated by Ramon Mercader with an ice axe in Mexico City.",
+      "date": "1940-08-21",
+      "type": "Assassination",
+      "location": "Mexico City, Mexico",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Leon Trotsky",
+        "Ramon Mercader",
+        "Russian Revolution"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Invention of the Telephone",
+      "description": "Alexander Graham Bell was awarded the first US patent for the invention of the telephone, a device that would transform global communication.",
+      "date": "1876-03-06",
+      "type": "Invention",
+      "location": "Boston, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Telephone",
+        "Alexander Graham Bell",
+        "Communication"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Discovery of Penicillin",
+      "description": "Alexander Fleming discovered penicillin, the world's first antibiotic, revolutionizing medicine and saving countless lives.",
+      "date": "1928-09-28",
+      "type": "Discovery",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Penicillin",
+        "Alexander Fleming",
+        "Antibiotic"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Invention of the Light Bulb",
+      "description": "Thomas Edison was awarded the patent for the electric light bulb, which became a cornerstone of modern society and industry.",
+      "date": "1879-10-13",
+      "type": "Invention",
+      "location": "Menlo Park, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Light Bulb",
+        "Thomas Edison",
+        "Electricity"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Discovery of DNA Structure",
+      "description": "James Watson and Francis Crick, along with Rosalind Franklin's critical contributions, discovered the double-helix structure of DNA, which revolutionized the field of genetics.",
+      "date": "1953-02-28",
+      "type": "Discovery",
+      "location": "Cambridge, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "DNA",
+        "Watson and Crick",
+        "Genetics"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Invention of the World Wide Web",
+      "description": "Tim Berners-Lee invented the World Wide Web, a system that revolutionized information sharing and communication across the globe.",
+      "date": "1989-03-12",
+      "type": "Invention",
+      "location": "Geneva, Switzerland",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "World Wide Web",
+        "Tim Berners-Lee",
+        "Internet"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Discovery of X-rays",
+      "description": "Wilhelm Conrad Röntgen discovered X-rays, a form of electromagnetic radiation, which revolutionized medical diagnostics.",
+      "date": "1895-11-08",
+      "type": "Discovery",
+      "location": "Würzburg, Germany",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "X-rays",
+        "Wilhelm Röntgen",
+        "Medical Imaging"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Invention of the Transistor",
+      "description": "John Bardeen, Walter Brattain, and William Shockley invented the transistor, a crucial component in modern electronics and computers.",
+      "date": "1947-12-16",
+      "type": "Invention",
+      "location": "Bell Labs, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Transistor",
+        "Bardeen",
+        "Brattain",
+        "Shockley",
+        "Electronics"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Discovery of Radium and Polonium",
+      "description": "Marie and Pierre Curie discovered the elements radium and polonium, contributing significantly to the field of radioactivity.",
+      "date": "1898-12-26",
+      "type": "Discovery",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Radium",
+        "Polonium",
+        "Marie Curie",
+        "Pierre Curie",
+        "Radioactivity"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Invention of the Airplane",
+      "description": "The Wright brothers, Orville and Wilbur, made the first successful powered flight in a heavier-than-air aircraft, revolutionizing transportation.",
+      "date": "1903-12-17",
+      "type": "Invention",
+      "location": "Kitty Hawk, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Airplane",
+        "Wright Brothers",
+        "Aviation"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Discovery of Insulin",
+      "description": "Frederick Banting and Charles Best discovered insulin, a hormone crucial for the treatment of diabetes, which has saved millions of lives.",
+      "date": "1921-07-27",
+      "type": "Discovery",
+      "location": "Toronto, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Insulin",
+        "Frederick Banting",
+        "Charles Best",
+        "Diabetes"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Eruption of Mount Vesuvius",
+      "description": "Mount Vesuvius erupted, burying the cities of Pompeii and Herculaneum under ash and pumice, preserving them for future archaeological study.",
+      "date": "0079-08-23",
+      "type": "Natural Disaster",
+      "location": "Pompeii, Roman Empire",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mount Vesuvius",
+        "Pompeii",
+        "Eruption"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "1906 San Francisco Earthquake",
+      "description": "A massive earthquake struck San Francisco, causing widespread destruction and fires, resulting in the deaths of approximately 3,000 people.",
+      "date": "1906-04-18",
+      "type": "Natural Disaster",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "San Francisco",
+        "Earthquake",
+        "1906"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "2004 Indian Ocean Tsunami",
+      "description": "A devastating tsunami triggered by a 9.1 magnitude earthquake struck the Indian Ocean, killing over 230,000 people across 14 countries.",
+      "date": "2004-12-26",
+      "type": "Natural Disaster",
+      "location": "Indian Ocean",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Indian Ocean",
+        "Tsunami",
+        "2004"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "2011 Tōhoku Earthquake and Tsunami",
+      "description": "A powerful earthquake and resulting tsunami hit Japan, causing extensive damage and triggering the Fukushima Daiichi nuclear disaster.",
+      "date": "2011-03-11",
+      "type": "Natural Disaster",
+      "location": "Tōhoku, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Tōhoku",
+        "Earthquake",
+        "Tsunami",
+        "Fukushima"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "1985 Mexico City Earthquake",
+      "description": "A major earthquake struck Mexico City, causing severe damage and resulting in the deaths of at least 10,000 people.",
+      "date": "1985-09-19",
+      "type": "Natural Disaster",
+      "location": "Mexico City, Mexico",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mexico City",
+        "Earthquake",
+        "1985"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Hurricane Katrina",
+      "description": "Hurricane Katrina, one of the deadliest hurricanes in U.S. history, struck the Gulf Coast, causing catastrophic damage and flooding in New Orleans.",
+      "date": "2005-08-29",
+      "type": "Natural Disaster",
+      "location": "New Orleans, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Hurricane Katrina",
+        "New Orleans",
+        "2005"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "2010 Haiti Earthquake",
+      "description": "A devastating earthquake struck Haiti, causing widespread destruction in Port-au-Prince and resulting in the deaths of over 230,000 people.",
+      "date": "2010-01-12",
+      "type": "Natural Disaster",
+      "location": "Port-au-Prince, Haiti",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Haiti",
+        "Earthquake",
+        "2010"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "1883 Eruption of Krakatoa",
+      "description": "The eruption of Krakatoa in Indonesia was one of the deadliest volcanic events in recorded history, causing massive tsunamis and killing over 36,000 people.",
+      "date": "1883-08-26",
+      "type": "Natural Disaster",
+      "location": "Krakatoa, Indonesia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Krakatoa",
+        "Volcanic Eruption",
+        "1883"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Great Chicago Fire",
+      "description": "The Great Chicago Fire destroyed a large part of the city, leaving more than 100,000 residents homeless.",
+      "date": "1871-10-07",
+      "type": "Natural Disaster",
+      "location": "Chicago, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Chicago Fire",
+        "1871"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "1989 Loma Prieta Earthquake",
+      "description": "A major earthquake struck the San Francisco Bay Area, causing significant damage and resulting in the deaths of 63 people.",
+      "date": "1989-10-17",
+      "type": "Natural Disaster",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Loma Prieta",
+        "Earthquake",
+        "1989"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Mount St. Helens Eruption",
+      "description": "The eruption of Mount St. Helens in Washington state caused massive destruction and killed 57 people.",
+      "date": "1980-05-18",
+      "type": "Natural Disaster",
+      "location": "Washington, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mount St. Helens",
+        "Eruption",
+        "1980"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "2008 Sichuan Earthquake",
+      "description": "A powerful earthquake struck Sichuan province in China, causing widespread devastation and resulting in nearly 70,000 deaths.",
+      "date": "2008-05-12",
+      "type": "Natural Disaster",
+      "location": "Sichuan, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Sichuan",
+        "Earthquake",
+        "2008"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "1931 China Floods",
+      "description": "The 1931 China floods are considered the deadliest natural disaster in recorded history, with estimates of up to 4 million deaths.",
+      "date": "1931-07-01",
+      "type": "Natural Disaster",
+      "location": "China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "China",
+        "Floods",
+        "1931"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "2013 Typhoon Haiyan",
+      "description": "Typhoon Haiyan, one of the strongest tropical cyclones ever recorded, struck the Philippines, causing widespread devastation and over 6,000 deaths.",
+      "date": "2013-11-08",
+      "type": "Natural Disaster",
+      "location": "Philippines",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Typhoon Haiyan",
+        "Philippines",
+        "2013"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "1982 El Chichón Eruption",
+      "description": "The eruption of El Chichón in Mexico caused significant destruction and resulted in the deaths of around 2,000 people.",
+      "date": "1982-03-29",
+      "type": "Natural Disaster",
+      "location": "Chiapas, Mexico",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "El Chichón",
+        "Eruption",
+        "1982"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Treaty of Versailles",
+      "description": "The Treaty of Versailles was signed, ending World War I and imposing heavy reparations and territorial losses on Germany.",
+      "date": "1919-06-28",
+      "type": "Treaty",
+      "location": "Versailles, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "World War I",
+        "Germany",
+        "Reparations"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Treaty of Paris",
+      "description": "The Treaty of Paris ended the American Revolutionary War, recognizing the independence of the United States.",
+      "date": "1783-09-02",
+      "type": "Treaty",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "American Revolution",
+        "Independence",
+        "USA"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Treaty of Tordesillas",
+      "description": "The Treaty of Tordesillas divided the newly discovered lands outside Europe between Portugal and Spain along a meridian 370 leagues west of the Cape Verde islands.",
+      "date": "1494-06-06",
+      "type": "Treaty",
+      "location": "Tordesillas, Spain",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Portugal",
+        "Spain",
+        "Exploration"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Treaty of Utrecht",
+      "description": "The Treaty of Utrecht ended the War of the Spanish Succession, recognizing Philip V as King of Spain and balancing power in Europe.",
+      "date": "1713-04-10",
+      "type": "Treaty",
+      "location": "Utrecht, Netherlands",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Spanish Succession",
+        "Philip V",
+        "Europe"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Treaty of Ghent",
+      "description": "The Treaty of Ghent ended the War of 1812 between the United States and the United Kingdom, restoring relations and territories to the status quo ante bellum.",
+      "date": "1814-12-23",
+      "type": "Treaty",
+      "location": "Ghent, Belgium",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "War of 1812",
+        "USA",
+        "UK"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Treaty of Portsmouth",
+      "description": "The Treaty of Portsmouth ended the Russo-Japanese War, marking Japan's emergence as a significant power.",
+      "date": "1905-09-05",
+      "type": "Treaty",
+      "location": "Portsmouth, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Russo-Japanese War",
+        "Japan",
+        "Russia"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Camp David Accords",
+      "description": "The Camp David Accords were signed by Egypt and Israel, leading to the Egypt-Israel Peace Treaty and normalizing relations between the two countries.",
+      "date": "1978-09-17",
+      "type": "Treaty",
+      "location": "Camp David, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Egypt",
+        "Israel",
+        "Peace"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Treaty of Brest-Litovsk",
+      "description": "The Treaty of Brest-Litovsk ended Russia's participation in World War I, ceding large territories to Germany and its allies.",
+      "date": "1918-03-03",
+      "type": "Treaty",
+      "location": "Brest-Litovsk, Belarus",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Russia",
+        "World War I",
+        "Germany"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Treaty of Guadalupe Hidalgo",
+      "description": "The Treaty of Guadalupe Hidalgo ended the Mexican-American War, with Mexico ceding large territories to the United States.",
+      "date": "1848-02-01",
+      "type": "Treaty",
+      "location": "Guadalupe Hidalgo, Mexico",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mexican-American War",
+        "USA",
+        "Mexico"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Treaty of Nanking",
+      "description": "The Treaty of Nanking ended the First Opium War between the United Kingdom and China, ceding Hong Kong to Britain.",
+      "date": "1842-08-28",
+      "type": "Treaty",
+      "location": "Nanking, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "First Opium War",
+        "UK",
+        "China"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Treaty of Paris (1898)",
+      "description": "The Treaty of Paris ended the Spanish-American War, with Spain ceding Puerto Rico, Guam, and the Philippines to the United States.",
+      "date": "1898-12-10",
+      "type": "Treaty",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Spanish-American War",
+        "USA",
+        "Spain"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Treaty of Westphalia",
+      "description": "The Treaty of Westphalia ended the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch Republic.",
+      "date": "1648-10-23",
+      "type": "Treaty",
+      "location": "Westphalia, Germany",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Thirty Years' War",
+        "Spain",
+        "Dutch Republic"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Treaty of Amsterdam",
+      "description": "The Treaty of Amsterdam amended the Maastricht Treaty, improving the efficiency and democratic legitimacy of the European Union.",
+      "date": "1997-10-02",
+      "type": "Treaty",
+      "location": "Amsterdam, Netherlands",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "European Union",
+        "Maastricht Treaty",
+        "EU"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Treaty of Lisbon",
+      "description": "The Treaty of Lisbon reformed the constitutional structure of the European Union, enhancing its governance and decision-making processes.",
+      "date": "2007-12-13",
+      "type": "Treaty",
+      "location": "Lisbon, Portugal",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "European Union",
+        "Reform",
+        "Governance"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Treaty of San Francisco",
+      "description": "The Treaty of San Francisco officially ended World War II between Japan and the Allied Powers, leading to Japan's re-entry into the international community.",
+      "date": "1951-09-08",
+      "type": "Treaty",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "World War II",
+        "Japan",
+        "Allied Powers"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Treaty of Rome",
+      "description": "The Treaty of Rome established the European Economic Community (EEC) and the European Atomic Energy Community (Euratom), laying the foundation for the European Union.",
+      "date": "1957-03-25",
+      "type": "Treaty",
+      "location": "Rome, Italy",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "European Union",
+        "EEC",
+        "Euratom"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Treaty of Waitangi",
+      "description": "The Treaty of Waitangi was signed between the British Crown and various Maori chiefs, establishing British law in New Zealand while recognizing Maori land ownership.",
+      "date": "1840-02-05",
+      "type": "Treaty",
+      "location": "Waitangi, New Zealand",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "New Zealand",
+        "Maori",
+        "British Crown"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Treaty of Aix-la-Chapelle",
+      "description": "The Treaty of Aix-la-Chapelle ended the War of the Austrian Succession, restoring the pre-war status quo and recognizing Maria Theresa as the ruler of Austria.",
+      "date": "1748-10-17",
+      "type": "Treaty",
+      "location": "Aix-la-Chapelle, Germany",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Austrian Succession",
+        "Maria Theresa",
+        "Austria"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Treaty of Karlowitz",
+      "description": "The Treaty of Karlowitz ended the Great Turkish War, marking the end of Ottoman control in much of Central Europe and the expansion of Habsburg influence.",
+      "date": "1699-01-25",
+      "type": "Treaty",
+      "location": "Karlowitz, Serbia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Great Turkish War",
+        "Ottoman Empire",
+        "Habsburg"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Treaty of Lausanne",
+      "description": "The Treaty of Lausanne settled the boundaries of modern Turkey and ended the conflict between the Allied Powers and the Ottoman Empire following World War I.",
+      "date": "1923-07-24",
+      "type": "Treaty",
+      "location": "Lausanne, Switzerland",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "World War I",
+        "Turkey",
+        "Ottoman Empire"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Civil Rights Act of 1964",
+      "description": "The Civil Rights Act of 1964 outlawed discrimination based on race, color, religion, sex, or national origin, and ended segregation in public places.",
+      "date": "1964-07-02",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Civil Rights",
+        "Segregation",
+        "USA"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Emancipation Proclamation",
+      "description": "Issued by President Abraham Lincoln, the Emancipation Proclamation declared that all slaves in Confederate-held territory were free.",
+      "date": "1862-12-31",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Emancipation",
+        "Slavery",
+        "USA"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Women's Suffrage Act (19th Amendment)",
+      "description": "The 19th Amendment to the United States Constitution granted women the right to vote, marking a significant victory for the women's suffrage movement.",
+      "date": "1920-08-18",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Women's Suffrage",
+        "Voting Rights",
+        "USA"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Medicare Act",
+      "description": "The Medicare Act of 1965 established Medicare, a national health insurance program for elderly and disabled Americans.",
+      "date": "1965-07-30",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Medicare",
+        "Health Insurance",
+        "USA"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Social Security Act",
+      "description": "The Social Security Act of 1935 created the Social Security program, providing financial assistance to the elderly, unemployed, and disabled.",
+      "date": "1935-08-14",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Social Security",
+        "Welfare",
+        "USA"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Affordable Care Act",
+      "description": "The Affordable Care Act, also known as Obamacare, was enacted to increase health insurance quality and affordability, and reduce the costs of healthcare.",
+      "date": "2010-03-23",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Affordable Care Act",
+        "Obamacare",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Voting Rights Act of 1965",
+      "description": "The Voting Rights Act of 1965 aimed to overcome legal barriers at the state and local levels that prevented African Americans from exercising their right to vote.",
+      "date": "1965-08-06",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Voting Rights",
+        "Civil Rights",
+        "USA"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Clean Air Act",
+      "description": "The Clean Air Act of 1963 established regulations to control air pollution on a national level and improve air quality.",
+      "date": "1963-12-17",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Clean Air Act",
+        "Pollution",
+        "Environment"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Civil Rights Act of 1968",
+      "description": "Also known as the Fair Housing Act, this legislation provided equal housing opportunities regardless of race, religion, or national origin.",
+      "date": "1968-04-11",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Fair Housing",
+        "Civil Rights",
+        "USA"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Homestead Act",
+      "description": "The Homestead Act of 1862 provided 160 acres of public land to settlers for a small fee, encouraging westward expansion in the United States.",
+      "date": "1862-05-19",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Homestead Act",
+        "Westward Expansion",
+        "Land"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Indian Removal Act",
+      "description": "The Indian Removal Act of 1830 authorized the forced relocation of Native American tribes to lands west of the Mississippi River. The Act authorized the forced relocation of thousands of Native Americans from their ancestral homelands in the southeastern United States to lands west of the Mississippi River. This policy was enforced through coercion and military force. The most infamous aspect of the Indian Removal Act was the Trail of Tears. Thousands of Native Americans, particularly from the Cherokee Nation, were forced to march over a thousand miles to designated Indian Territory (present-day Oklahoma). The journey was brutal, with inadequate supplies, harsh weather conditions, and disease. Estimates suggest that around 4,000 of the 16,000 relocated Cherokees perished on the Trail of Tears due to starvation, exposure, and illness.",
+      "date": "1830-05-27",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Indian Removal Act",
+        "Native American",
+        "Relocation",
+        "broken promises",
+        "broken treaties"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Civil Rights Act of 1875",
+      "description": "The Civil Rights Act of 1875 aimed to protect all citizens in their civil and legal rights, providing for equal treatment in public accommodations and jury service.",
+      "date": "1875-02-28",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Civil Rights",
+        "Equal Treatment",
+        "Public Accommodations"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Fair Labor Standards Act",
+      "description": "The Fair Labor Standards Act of 1938 established minimum wage, overtime pay eligibility, recordkeeping, and child labor standards.",
+      "date": "1938-06-25",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Fair Labor Standards",
+        "Minimum Wage",
+        "Labor"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Americans with Disabilities Act",
+      "description": "The Americans with Disabilities Act of 1990 prohibits discrimination based on disability and ensures equal opportunity for persons with disabilities.",
+      "date": "1990-07-26",
+      "type": "Legislation",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Disabilities",
+        "Equal Opportunity",
+        "Discrimination"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Magna Carta",
+      "description": "The Magna Carta, signed by King John of England, is a foundational document establishing the principle that everyone is subject to the law, even the king.",
+      "date": "1215-06-14",
+      "type": "Legislation",
+      "location": "Runnymede, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Magna Carta",
+        "King John",
+        "Rule of Law"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Reform Act 1832",
+      "description": "The Reform Act 1832, also known as the Great Reform Act, reformed the electoral system of England and Wales, making it more representative.",
+      "date": "1832-06-06",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Reform Act",
+        "Electoral System",
+        "Representation"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "British North America Act",
+      "description": "The British North America Act created the Dominion of Canada, uniting the provinces of Canada, New Brunswick, and Nova Scotia into a single federation.",
+      "date": "1867-06-30",
+      "type": "Legislation",
+      "location": "Ottawa, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Canada",
+        "Federation",
+        "British North America Act"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Indian Independence Act",
+      "description": "The Indian Independence Act of 1947 partitioned British India into two new independent dominions of India and Pakistan.",
+      "date": "1947-07-18",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Indian Independence",
+        "Partition",
+        "India",
+        "Pakistan"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Constitution of Japan",
+      "description": "The Constitution of Japan, enacted in 1947, established a parliamentary government and renounced the right to wage war.",
+      "date": "1947-05-03",
+      "type": "Legislation",
+      "location": "Tokyo, Japan",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Japan",
+        "Constitution",
+        "Parliamentary Government"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Representation of the People Act 1918",
+      "description": "The Representation of the People Act 1918 granted the right to vote to women over the age of 30 and all men over the age of 21 in the UK.",
+      "date": "1918-02-06",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Women's Suffrage",
+        "Voting Rights",
+        "UK"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Aboriginal Land Rights Act 1976",
+      "description": "The Aboriginal Land Rights Act 1976 was a landmark law in Australia that provided the basis upon which Aboriginal Australians could claim rights to land.",
+      "date": "1976-12-16",
+      "type": "Legislation",
+      "location": "Canberra, Australia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Aboriginal Land Rights",
+        "Australia",
+        "Indigenous Rights"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Marriage Act 2013",
+      "description": "The Marriage Act 2013 legalized same-sex marriage in England and Wales, granting equal marriage rights to all couples.",
+      "date": "2013-07-17",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Same-Sex Marriage",
+        "Marriage Equality",
+        "England",
+        "Wales"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Civil Partnership Act 2004",
+      "description": "The Civil Partnership Act 2004 allowed same-sex couples in the UK to register as civil partners, granting them similar legal rights as married couples.",
+      "date": "2004-11-18",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Civil Partnership",
+        "Same-Sex Couples",
+        "UK"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Racial Discrimination Act 1975",
+      "description": "The Racial Discrimination Act 1975 made racial discrimination unlawful in Australia, promoting equality before the law for all persons.",
+      "date": "1975-06-11",
+      "type": "Legislation",
+      "location": "Canberra, Australia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Racial Discrimination",
+        "Equality",
+        "Australia"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Equality Act 2010",
+      "description": "The Equality Act 2010 in the UK consolidated and simplified previous anti-discrimination laws, protecting individuals from unfair treatment and promoting equality.",
+      "date": "2010-04-08",
+      "type": "Legislation",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Equality",
+        "Anti-Discrimination",
+        "UK"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Charter of Rights and Freedoms",
+      "description": "Part of the Constitution Act 1982, the Canadian Charter of Rights and Freedoms guarantees fundamental freedoms and rights to all Canadian citizens.",
+      "date": "1982-04-17",
+      "type": "Legislation",
+      "location": "Ottawa, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Charter of Rights and Freedoms",
+        "Canada",
+        "Constitution"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Treaty of Waitangi Act 1975",
+      "description": "The Treaty of Waitangi Act 1975 established the Waitangi Tribunal in New Zealand to address breaches of the Treaty of Waitangi between the Crown and Maori.",
+      "date": "1975-10-10",
+      "type": "Legislation",
+      "location": "Wellington, New Zealand",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Waitangi Tribunal",
+        "New Zealand",
+        "Maori"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Universal Declaration of Human Rights",
+      "description": "Adopted by the United Nations General Assembly, the Universal Declaration of Human Rights sets out fundamental human rights to be universally protected.",
+      "date": "1948-12-10",
+      "type": "Legislation",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Human Rights",
+        "United Nations",
+        "Universal Declaration"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Premiere of Beethoven's Ninth Symphony",
+      "description": "Ludwig van Beethoven's Ninth Symphony premiered in Vienna, featuring the famous 'Ode to Joy' and marking a pinnacle of classical music.",
+      "date": "1824-05-06",
+      "type": "Music",
+      "location": "Vienna, Austria",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Beethoven",
+        "Ninth Symphony",
+        "Classical Music"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Publication of Darwin's 'On the Origin of Species'",
+      "description": "Charles Darwin's groundbreaking work 'On the Origin of Species' was published, introducing the theory of evolution by natural selection.",
+      "date": "1859-11-23",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Darwin",
+        "Evolution",
+        "Natural Selection"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Inaugural Modern Olympic Games",
+      "description": "The first modern Olympic Games were held in Athens, Greece, reviving the ancient tradition with athletes from around the world.",
+      "date": "1896-04-06",
+      "type": "Cultural",
+      "location": "Athens, Greece",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Olympics",
+        "Athens",
+        "Sports"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Release of The Beatles' 'Sgt. Pepper's Lonely Hearts Club Band'",
+      "description": "The Beatles released their iconic album 'Sgt. Pepper's Lonely Hearts Club Band,' which became a landmark in music history.",
+      "date": "1967-06-01",
+      "type": "Music",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Beatles",
+        "Music",
+        "Sgt. Pepper"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Publication of 'Harry Potter and the Philosopher's Stone'",
+      "description": "J.K. Rowling's 'Harry Potter and the Philosopher's Stone' was published, starting a globally successful book series and cultural phenomenon.",
+      "date": "1997-06-26",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Harry Potter",
+        "J.K. Rowling",
+        "Literature"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Premiere of the first episode of 'Doctor Who'",
+      "description": "The first episode of 'Doctor Who' aired on the BBC, launching one of the most enduring and beloved science fiction television series.",
+      "date": "1963-11-23",
+      "type": "TV",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Doctor Who",
+        "Television",
+        "BBC"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Opening of the Louvre Museum",
+      "description": "The Louvre Museum in Paris opened to the public, becoming one of the world's largest and most visited art museums.",
+      "date": "1793-08-09",
+      "type": "Cultural",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Louvre",
+        "Art",
+        "Museum"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Premiere of 'The Nutcracker' Ballet",
+      "description": "Tchaikovsky's 'The Nutcracker' ballet premiered in Saint Petersburg, becoming a classic holiday performance worldwide.",
+      "date": "1892-12-18",
+      "type": "Cultural",
+      "location": "Saint Petersburg, Russia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Nutcracker",
+        "Ballet",
+        "Tchaikovsky"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Woodstock Music Festival",
+      "description": "The Woodstock Music Festival took place in Bethel, New York, symbolizing the 1960s counterculture movement and featuring performances by iconic musicians.",
+      "date": "1969-08-15",
+      "type": "Concert",
+      "location": "Bethel, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Woodstock",
+        "Music Festival",
+        "1960s"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Inaugural Cannes Film Festival",
+      "description": "The first Cannes Film Festival was held, becoming one of the most prestigious film festivals in the world.",
+      "date": "1946-09-20",
+      "type": "Cultural",
+      "location": "Cannes, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Cannes",
+        "Film Festival",
+        "Cinema"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "First Publication of National Geographic Magazine",
+      "description": "The first issue of National Geographic magazine was published, known for its in-depth articles and stunning photography.",
+      "date": "1888-09-22",
+      "type": "Cultural",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "National Geographic",
+        "Magazine",
+        "Photography"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Opening of the Sydney Opera House",
+      "description": "The Sydney Opera House, an architectural icon and major performing arts venue, was officially opened.",
+      "date": "1973-10-20",
+      "type": "Cultural",
+      "location": "Sydney, Australia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Sydney Opera House",
+        "Architecture",
+        "Performing Arts"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Premiere of 'The Matrix' movie",
+      "description": "The science fiction film 'The Matrix' premiered, introducing groundbreaking special effects and a complex narrative that influenced pop culture.",
+      "date": "1999-03-31",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Matrix",
+        "Film",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Publication of 'The Catcher in the Rye'",
+      "description": "J.D. Salinger's novel 'The Catcher in the Rye' was published, becoming a classic of American literature and a defining work of teenage angst and rebellion.",
+      "date": "1951-07-16",
+      "type": "Publication",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Catcher in the Rye",
+        "J.D. Salinger",
+        "Literature"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Premiere of 'Hamilton' musical",
+      "description": "Lin-Manuel Miranda's musical 'Hamilton' premiered on Broadway, combining hip-hop and history to tell the story of American Founding Father Alexander Hamilton.",
+      "date": "2015-08-06",
+      "type": "Cultural",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Hamilton",
+        "Musical",
+        "Broadway"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Founding of the Royal Society",
+      "description": "The Royal Society was founded in London, becoming one of the earliest scientific institutions dedicated to promoting scientific knowledge.",
+      "date": "1660-11-27",
+      "type": "Cultural",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Royal Society",
+        "Science",
+        "Institution"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Premiere of 'The Phantom of the Opera' musical",
+      "description": "Andrew Lloyd Webber's musical 'The Phantom of the Opera' premiered in London's West End, becoming one of the longest-running shows in musical theater history.",
+      "date": "1986-10-09",
+      "type": "Cultural",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Phantom of the Opera",
+        "Musical",
+        "Theater"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Publication of 'Pride and Prejudice'",
+      "description": "Jane Austen's novel 'Pride and Prejudice' was published, becoming one of the most beloved works of English literature.",
+      "date": "1813-01-27",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Pride and Prejudice",
+        "Jane Austen",
+        "Literature"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Premiere of 'The Lion King' musical",
+      "description": "Disney's musical adaptation of 'The Lion King' premiered on Broadway, becoming a global phenomenon and one of the highest-grossing musicals of all time.",
+      "date": "1997-11-13",
+      "type": "Cultural",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Lion King",
+        "Musical",
+        "Broadway"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Publication of '1984'",
+      "description": "George Orwell's dystopian novel '1984' was published, introducing concepts such as Big Brother, thoughtcrime, and Newspeak that have become part of popular culture.",
+      "date": "1949-06-08",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "1984",
+        "George Orwell",
+        "Dystopia"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Live Aid Concert",
+      "description": "Live Aid was a dual-venue benefit concert held to raise funds for relief of the ongoing Ethiopian famine, featuring performances by Queen, U2, and many others.",
+      "date": "1985-07-13",
+      "type": "Concert",
+      "location": "London, England; Philadelphia, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Live Aid",
+        "Benefit Concert",
+        "Ethiopian Famine"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "The Beatles' Rooftop Concert",
+      "description": "The Beatles performed an unannounced concert on the rooftop of Apple Corps in London, which was their final public performance.",
+      "date": "1969-01-30",
+      "type": "Conert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Beatles",
+        "Rooftop Concert",
+        "Final Performance"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Monterey Pop Festival",
+      "description": "The Monterey Pop Festival featured groundbreaking performances by Jimi Hendrix, The Who, Janis Joplin, and others, marking the beginning of the 'Summer of Love'.",
+      "date": "1967-06-16",
+      "type": "Concert",
+      "location": "Monterey, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Monterey Pop Festival",
+        "Summer of Love",
+        "1960s"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "The Rolling Stones' Altamont Free Concert",
+      "description": "The Altamont Free Concert, headlined by The Rolling Stones, was marred by violence and is often seen as the end of the 1960s counterculture.",
+      "date": "1969-12-06",
+      "type": "Concert",
+      "location": "Altamont, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Rolling Stones",
+        "Altamont Free Concert",
+        "1960s"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Freddie Mercury Tribute Concert",
+      "description": "The Freddie Mercury Tribute Concert was held at Wembley Stadium to celebrate the life of Queen's lead singer, Freddie Mercury, and to raise awareness for AIDS.",
+      "date": "1992-04-20",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Freddie Mercury",
+        "Tribute Concert",
+        "AIDS Awareness"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Elvis Presley's Aloha from Hawaii",
+      "description": "Elvis Presley's 'Aloha from Hawaii' concert was the first concert to be broadcast live via satellite, reaching an audience of over 1 billion viewers.",
+      "date": "1973-01-14",
+      "type": "Concert",
+      "location": "Honolulu, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Elvis Presley",
+        "Aloha from Hawaii",
+        "Live Broadcast"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Pink Floyd's The Wall Concert in Berlin",
+      "description": "Pink Floyd performed 'The Wall' at the Berlin Wall, celebrating the fall of the wall and the end of the Cold War.",
+      "date": "1990-07-21",
+      "type": "Concert",
+      "location": "Berlin, Germany",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Pink Floyd",
+        "The Wall",
+        "Berlin Wall"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Michael Jackson's Bucharest Concert",
+      "description": "Michael Jackson's concert in Bucharest during his Dangerous World Tour is considered one of his most iconic live performances.",
+      "date": "1992-10-01",
+      "type": "Concert",
+      "location": "Bucharest, Romania",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Michael Jackson",
+        "Bucharest",
+        "Dangerous World Tour"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Queen's Live at Wembley Stadium",
+      "description": "Queen's performance at Wembley Stadium is one of the most celebrated concerts in rock history, showcasing Freddie Mercury's showmanship.",
+      "date": "1986-07-12",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Queen",
+        "Wembley Stadium",
+        "Freddie Mercury"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Nirvana's MTV Unplugged in New York",
+      "description": "Nirvana's MTV Unplugged performance in New York is one of their most memorable concerts, featuring acoustic renditions of their hits and covers.",
+      "date": "1993-11-18",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Nirvana",
+        "MTV Unplugged",
+        "New York"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Bob Dylan's 1966 Manchester Free Trade Hall Concert",
+      "description": "Bob Dylan's concert at Manchester Free Trade Hall, where he famously 'went electric', is a landmark event in rock history.",
+      "date": "1966-05-17",
+      "type": "Concert",
+      "location": "Manchester, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Bob Dylan",
+        "Electric",
+        "Manchester"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Jimi Hendrix at Woodstock",
+      "description": "Jimi Hendrix's performance at Woodstock, including his iconic rendition of 'The Star-Spangled Banner', is one of the most legendary moments in rock music.",
+      "date": "1969-08-18",
+      "type": "Concert",
+      "location": "Bethel, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Jimi Hendrix",
+        "Woodstock",
+        "The Star-Spangled Banner"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "David Bowie's Ziggy Stardust Farewell Concert",
+      "description": "David Bowie's final concert as Ziggy Stardust at the Hammersmith Odeon marked the end of his iconic alter ego.",
+      "date": "1973-07-03",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "David Bowie",
+        "Ziggy Stardust",
+        "Farewell Concert"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Madonna's Blond Ambition Tour",
+      "description": "Madonna's Blond Ambition Tour, including her controversial performance of 'Like a Virgin' in Toronto, pushed the boundaries of live performance and sexuality.",
+      "date": "1990-05-27",
+      "type": "Concert",
+      "location": "Toronto, Canada",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Madonna",
+        "Blond Ambition Tour",
+        "Like a Virgin"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Beyoncé's Coachella Performance",
+      "description": "Beyoncé's performance at Coachella, often referred to as 'Beychella', was a historic event, celebrating black culture and featuring guest appearances by Destiny's Child.",
+      "date": "2018-04-14",
+      "type": "Concert",
+      "location": "Indio, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Beyoncé",
+        "Coachella",
+        "Beychella"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Guns N' Roses at the Ritz",
+      "description": "Guns N' Roses' performance at the Ritz in New York City is regarded as one of their best early shows, capturing the raw energy and intensity of the band.",
+      "date": "1988-02-02",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Guns N' Roses",
+        "The Ritz",
+        "Live Performance"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Jay-Z's 9/11 Benefit Concert",
+      "description": "Jay-Z's benefit concert at Madison Square Garden on the anniversary of 9/11 was a powerful tribute and raised funds for the families of the victims.",
+      "date": "2001-10-20",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Jay-Z",
+        "9/11 Benefit",
+        "Madison Square Garden"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Tina Turner's Live in Amsterdam",
+      "description": "Tina Turner's concert at the Amsterdam Arena during her Wildest Dreams Tour is one of her most iconic live performances, showcasing her powerful voice and stage presence.",
+      "date": "1996-09-10",
+      "type": "Concert",
+      "location": "Amsterdam, Netherlands",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Tina Turner",
+        "Amsterdam Arena",
+        "Wildest Dreams Tour"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Dead Kennedys at Mabuhay Gardens",
+      "description": "The Dead Kennedys' performance at Mabuhay Gardens in San Francisco was a landmark event in the punk rock scene, showcasing their raw energy and political lyrics.",
+      "date": "1978-07-19",
+      "type": "Concert",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Dead Kennedys",
+        "Mabuhay Gardens",
+        "Punk Rock"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Misfits at Max's Kansas City",
+      "description": "The Misfits' performance at Max's Kansas City in New York City was a pivotal moment for the band, helping to solidify their place in punk rock history.",
+      "date": "1979-11-15",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Misfits",
+        "Max's Kansas City",
+        "Punk Rock"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Minor Threat at 9:30 Club",
+      "description": "Minor Threat's show at the 9:30 Club in Washington, D.C. is remembered for its intense energy and hardcore punk ethos.",
+      "date": "1982-01-02",
+      "type": "Concert",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Minor Threat",
+        "9:30 Club",
+        "Hardcore Punk"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Black Flag at The Vex",
+      "description": "Black Flag's performance at The Vex in Los Angeles is a legendary moment in the history of hardcore punk, known for its raw intensity.",
+      "date": "1981-08-22",
+      "type": "Concert",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Black Flag",
+        "The Vex",
+        "Hardcore Punk"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Suicidal Tendencies at Fender's Ballroom",
+      "description": "Suicidal Tendencies' show at Fender's Ballroom in Long Beach is iconic in the crossover thrash scene, blending punk and metal influences.",
+      "date": "1983-09-10",
+      "type": "Concert",
+      "location": "Long Beach, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Suicidal Tendencies",
+        "Fender's Ballroom",
+        "Crossover Thrash"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Bad Brains at CBGB",
+      "description": "Bad Brains' performance at CBGB in New York City is legendary for its ferocious energy and blend of punk and reggae influences.",
+      "date": "1982-12-24",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Bad Brains",
+        "CBGB",
+        "Punk Rock"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Samhain at The Ritz",
+      "description": "Samhain's performance at The Ritz in New York City showcased Glenn Danzig's dark and powerful presence, bridging the gap between punk and gothic rock.",
+      "date": "1986-10-01",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Samhain",
+        "The Ritz",
+        "Gothic Punk"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "GBH at The Electric Ballroom",
+      "description": "GBH's show at The Electric Ballroom in London is a defining moment in the UK punk scene, known for its raw power and aggressive sound.",
+      "date": "1981-05-20",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "GBH",
+        "The Electric Ballroom",
+        "UK Punk"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Venom at Hammersmith Odeon",
+      "description": "Venom's concert at Hammersmith Odeon in London was a pivotal event in the development of black metal, featuring their dark and theatrical stage presence.",
+      "date": "1984-06-08",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Venom",
+        "Hammersmith Odeon",
+        "Black Metal"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Napalm Death at The Mermaid",
+      "description": "Napalm Death's performance at The Mermaid in Birmingham is a landmark event in the grindcore genre, known for its blistering speed and intensity.",
+      "date": "1986-09-27",
+      "type": "Concert",
+      "location": "Birmingham, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Napalm Death",
+        "The Mermaid",
+        "Grindcore"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Exodus at Ruthie's Inn",
+      "description": "Exodus' show at Ruthie's Inn in Berkeley is a key moment in the Bay Area thrash metal scene, showcasing their raw and aggressive sound.",
+      "date": "1984-03-15",
+      "type": "Concert",
+      "location": "Berkeley, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Exodus",
+        "Ruthie's Inn",
+        "Thrash Metal"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "The Exploited at Glasgow Apollo",
+      "description": "The Exploited's concert at the Glasgow Apollo is a defining moment in the UK punk scene, known for its raw energy and anti-establishment lyrics.",
+      "date": "1983-11-05",
+      "type": "Concert",
+      "location": "Glasgow, Scotland",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Exploited",
+        "Glasgow Apollo",
+        "UK Punk"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Discharge at Lyceum Theatre",
+      "description": "Discharge's performance at the Lyceum Theatre in London is iconic in the hardcore punk and D-beat scene, known for its powerful and relentless sound.",
+      "date": "1981-12-13",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Discharge",
+        "Lyceum Theatre",
+        "Hardcore Punk"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Testament at The Stone",
+      "description": "Testament's show at The Stone in San Francisco is a pivotal event in the thrash metal scene, highlighting their technical proficiency and aggressive sound.",
+      "date": "1987-07-15",
+      "type": "Concert",
+      "location": "San Francisco, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Testament",
+        "The Stone",
+        "Thrash Metal"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "The Cramps at The Mudd Club",
+      "description": "The Cramps' performance at The Mudd Club in New York City is a defining moment in the psychobilly genre, known for their wild stage presence and unique blend of punk and rockabilly.",
+      "date": "1981-04-13",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Cramps",
+        "The Mudd Club",
+        "Psychobilly"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Agnostic Front at CBGB",
+      "description": "Agnostic Front's show at CBGB in New York City is a landmark event in the hardcore punk scene, known for its intense energy and influential sound.",
+      "date": "1984-10-21",
+      "type": "Concert",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Agnostic Front",
+        "CBGB",
+        "Hardcore Punk"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Circle Jerks at The Masque",
+      "description": "Circle Jerks' performance at The Masque in Los Angeles is a key moment in the early LA punk scene, known for its fast-paced and rebellious sound.",
+      "date": "1980-08-15",
+      "type": "Concert",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Circle Jerks",
+        "The Masque",
+        "LA Punk"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Municipal Waste at The Broadberry",
+      "description": "Municipal Waste's concert at The Broadberry in Richmond is a notable event in the crossover thrash scene, known for their high-energy performances and party atmosphere.",
+      "date": "2016-04-22",
+      "type": "Concert",
+      "location": "Richmond, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Municipal Waste",
+        "The Broadberry",
+        "Crossover Thrash"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Crass at The Red Cow",
+      "description": "Crass' performance at The Red Cow in London is a defining moment in anarcho-punk, known for their politically charged lyrics and DIY ethos.",
+      "date": "1979-02-16",
+      "type": "Concert",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Crass",
+        "The Red Cow",
+        "Anarcho-Punk"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Mayhem at Club Hell",
+      "description": "Mayhem's show at Club Hell in Oslo is a pivotal event in the black metal scene, known for its dark atmosphere and controversial stage antics.",
+      "date": "1990-05-17",
+      "type": "Concert",
+      "location": "Oslo, Norway",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mayhem",
+        "Club Hell",
+        "Black Metal"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Publication of 'Pride and Prejudice'",
+      "description": "Jane Austen's novel 'Pride and Prejudice' was published, becoming one of the most beloved and influential works in English literature.",
+      "date": "1813-01-27",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Jane Austen",
+        "Pride and Prejudice",
+        "Literature"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Publication of 'Moby-Dick'",
+      "description": "Herman Melville's 'Moby-Dick' was published, initially receiving mixed reviews but later becoming a classic of American literature.",
+      "date": "1851-10-17",
+      "type": "Publication",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Herman Melville",
+        "Moby-Dick",
+        "American Literature"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Publication of '1984'",
+      "description": "George Orwell's dystopian novel '1984' was published, offering a chilling depiction of totalitarianism and surveillance.",
+      "date": "1949-06-08",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "George Orwell",
+        "1984",
+        "Dystopian Fiction"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Publication of 'To Kill a Mockingbird'",
+      "description": "Harper Lee's novel 'To Kill a Mockingbird' was published, addressing serious issues such as racial injustice and moral growth.",
+      "date": "1960-07-11",
+      "type": "Publication",
+      "location": "Philadelphia, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Harper Lee",
+        "To Kill a Mockingbird",
+        "American Literature"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Publication of 'The Great Gatsby'",
+      "description": "F. Scott Fitzgerald's novel 'The Great Gatsby' was published, capturing the essence of the Jazz Age and exploring themes of decadence and excess.",
+      "date": "1925-04-10",
+      "type": "Publication",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "F. Scott Fitzgerald",
+        "The Great Gatsby",
+        "Jazz Age"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Publication of 'War and Peace'",
+      "description": "Leo Tolstoy's epic novel 'War and Peace' was published, depicting the impact of the Napoleonic Wars on Russian society.",
+      "date": "1868-12-31",
+      "type": "Publication",
+      "location": "Moscow, Russia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Leo Tolstoy",
+        "War and Peace",
+        "Russian Literature"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Publication of 'The Hobbit'",
+      "description": "J.R.R. Tolkien's 'The Hobbit' was published, introducing readers to the rich world of Middle-earth and setting the stage for 'The Lord of the Rings'.",
+      "date": "1937-09-21",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "J.R.R. Tolkien",
+        "The Hobbit",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Publication of 'One Hundred Years of Solitude'",
+      "description": "Gabriel García Márquez's novel 'One Hundred Years of Solitude' was published, becoming a landmark work in the genre of magical realism.",
+      "date": "1967-05-30",
+      "type": "Publication",
+      "location": "Buenos Aires, Argentina",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Gabriel García Márquez",
+        "One Hundred Years of Solitude",
+        "Magical Realism"
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Publication of 'Brave New World'",
+      "description": "Aldous Huxley's dystopian novel 'Brave New World' was published, presenting a future society shaped by technological advancements and social engineering.",
+      "date": "1932-01-01",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Aldous Huxley",
+        "Brave New World",
+        "Dystopian Fiction"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Publication of 'Don Quixote'",
+      "description": "Miguel de Cervantes' novel 'Don Quixote' was published, widely regarded as one of the greatest works of fiction ever written.",
+      "date": "1605-01-15",
+      "type": "Publication",
+      "location": "Madrid, Spain",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Miguel de Cervantes",
+        "Don Quixote",
+        "Spanish Literature"
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Publication of 'The Divine Comedy'",
+      "description": "Dante Alighieri's epic poem 'The Divine Comedy' was published, an allegorical journey through Hell, Purgatory, and Heaven.",
+      "date": "1319-12-31",
+      "type": "Publication",
+      "location": "Florence, Italy",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Dante Alighieri",
+        "The Divine Comedy",
+        "Epic Poetry"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Publication of 'Frankenstein'",
+      "description": "Mary Shelley's novel 'Frankenstein' was published, often considered the first science fiction novel and a cornerstone of Gothic literature.",
+      "date": "1817-12-31",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Mary Shelley",
+        "Frankenstein",
+        "Gothic Literature"
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Publication of 'Crime and Punishment'",
+      "description": "Fyodor Dostoevsky's novel 'Crime and Punishment' was published, exploring the psychological depths of its protagonist and the moral dilemmas he faces.",
+      "date": "1865-12-31",
+      "type": "Publication",
+      "location": "Saint Petersburg, Russia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Fyodor Dostoevsky",
+        "Crime and Punishment",
+        "Russian Literature"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Publication of 'The Lord of the Rings: The Fellowship of the Ring'",
+      "description": "J.R.R. Tolkien's 'The Fellowship of the Ring', the first volume of 'The Lord of the Rings' trilogy, was published, revolutionizing the fantasy genre.",
+      "date": "1954-07-29",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "J.R.R. Tolkien",
+        "The Fellowship of the Ring",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Publication of 'A Tale of Two Cities'",
+      "description": "Charles Dickens' historical novel 'A Tale of Two Cities' was published, set against the backdrop of the French Revolution.",
+      "date": "1859-04-29",
+      "type": "Publication",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Charles Dickens",
+        "A Tale of Two Cities",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Publication of 'Anna Karenina'",
+      "description": "Leo Tolstoy's novel 'Anna Karenina' was published, exploring the complexities of Russian society through its tragic heroine.",
+      "date": "1876-12-31",
+      "type": "Publication",
+      "location": "Moscow, Russia",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Leo Tolstoy",
+        "Anna Karenina",
+        "Russian Literature"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Publication of 'Ulysses'",
+      "description": "James Joyce's 'Ulysses' was published, a groundbreaking work in modernist literature that employs stream-of-consciousness narrative technique.",
+      "date": "1922-02-02",
+      "type": "Publication",
+      "location": "Paris, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "James Joyce",
+        "Ulysses",
+        "Modernist Literature"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Release of 'Gone with the Wind'",
+      "description": "The film 'Gone with the Wind', directed by Victor Fleming, premiered, becoming one of the most iconic films in cinematic history.",
+      "date": "1939-12-15",
+      "type": "Movie",
+      "location": "Atlanta, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Gone with the Wind",
+        "Victor Fleming",
+        "Classic Cinema"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Release of 'Casablanca'",
+      "description": "The film 'Casablanca', directed by Michael Curtiz, premiered, becoming a classic of American cinema with memorable performances by Humphrey Bogart and Ingrid Bergman.",
+      "date": "1942-11-26",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Casablanca",
+        "Michael Curtiz",
+        "Classic Cinema"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Release of 'The Godfather'",
+      "description": "Francis Ford Coppola's 'The Godfather' premiered, becoming one of the most influential films in cinema history.",
+      "date": "1972-03-24",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Godfather",
+        "Francis Ford Coppola",
+        "Mafia"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Release of 'Star Wars: Episode IV - A New Hope'",
+      "description": "The first Star Wars movie, 'A New Hope', directed by George Lucas, premiered, creating a cultural phenomenon and revolutionizing the science fiction genre.",
+      "date": "1977-05-25",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Star Wars",
+        "George Lucas",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Release of 'Schindler's List'",
+      "description": "Steven Spielberg's film 'Schindler's List' premiered, telling the harrowing story of Oskar Schindler's efforts to save Jewish lives during the Holocaust.",
+      "date": "1993-12-15",
+      "type": "Movie",
+      "location": "Washington D.C., USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Schindler's List",
+        "Steven Spielberg",
+        "Holocaust"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Release of 'Pulp Fiction'",
+      "description": "Quentin Tarantino's 'Pulp Fiction' premiered at the Cannes Film Festival, known for its nonlinear narrative and cultural impact.",
+      "date": "1994-05-21",
+      "type": "Movie",
+      "location": "Cannes, France",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Pulp Fiction",
+        "Quentin Tarantino",
+        "Cannes"
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Release of 'The Shawshank Redemption'",
+      "description": "Frank Darabont's 'The Shawshank Redemption', based on Stephen King's novella, premiered, later becoming one of the most beloved films of all time.",
+      "date": "1994-09-23",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Shawshank Redemption",
+        "Frank Darabont",
+        "Stephen King"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Release of 'The Wizard of Oz'",
+      "description": "The film 'The Wizard of Oz', directed by Victor Fleming, premiered, becoming a timeless classic of American cinema.",
+      "date": "1939-08-25",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Wizard of Oz",
+        "Victor Fleming",
+        "Classic Cinema"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Release of 'Citizen Kane'",
+      "description": "Orson Welles' 'Citizen Kane' premiered, often cited as one of the greatest films ever made, known for its innovative storytelling and cinematography.",
+      "date": "1941-05-01",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Citizen Kane",
+        "Orson Welles",
+        "Classic Cinema"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Release of 'Jaws'",
+      "description": "Steven Spielberg's 'Jaws' premiered, becoming the first summer blockbuster and changing the film industry's approach to movie releases.",
+      "date": "1975-06-20",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Jaws",
+        "Steven Spielberg",
+        "Blockbuster"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Release of 'Titanic'",
+      "description": "James Cameron's 'Titanic' premiered, becoming one of the highest-grossing films of all time and winning numerous awards.",
+      "date": "1997-12-19",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Titanic",
+        "James Cameron",
+        "Blockbuster"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Release of 'The Matrix'",
+      "description": "The science fiction film 'The Matrix', directed by the Wachowskis, premiered, introducing groundbreaking special effects and a complex narrative that influenced pop culture.",
+      "date": "1999-03-31",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Matrix",
+        "Wachowskis",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Release of 'The Lord of the Rings: The Fellowship of the Ring'",
+      "description": "The first installment of 'The Lord of the Rings' trilogy, directed by Peter Jackson, premiered, setting new standards for fantasy filmmaking.",
+      "date": "2001-12-19",
+      "type": "Movie",
+      "location": "Wellington, New Zealand",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Lord of the Rings",
+        "Peter Jackson",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Release of 'The Dark Knight'",
+      "description": "Christopher Nolan's 'The Dark Knight', featuring Heath Ledger's iconic performance as the Joker, premiered and became a critical and commercial success.",
+      "date": "2008-07-18",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Dark Knight",
+        "Christopher Nolan",
+        "Heath Ledger"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Release of 'Inception'",
+      "description": "Christopher Nolan's 'Inception', known for its complex narrative and innovative special effects, premiered, becoming a landmark in modern cinema.",
+      "date": "2010-07-16",
+      "type": "Movie",
+      "location": "London, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Inception",
+        "Christopher Nolan",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Release of 'Avatar'",
+      "description": "James Cameron's 'Avatar' premiered, becoming the highest-grossing film of all time and revolutionizing the use of 3D technology in cinema.",
+      "date": "2009-12-18",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Avatar",
+        "James Cameron",
+        "3D Technology"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Release of 'Forrest Gump'",
+      "description": "Robert Zemeckis' 'Forrest Gump', featuring Tom Hanks' memorable performance, premiered and became a beloved classic.",
+      "date": "1994-07-06",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Forrest Gump",
+        "Robert Zemeckis",
+        "Tom Hanks"
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Release of 'E.T. the Extra-Terrestrial'",
+      "description": "Steven Spielberg's 'E.T. the Extra-Terrestrial' premiered, becoming a beloved family film and a cultural touchstone.",
+      "date": "1982-06-11",
+      "type": "Movie",
+      "location": "Los Angeles, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "E.T.",
+        "Steven Spielberg",
+        "Family Film"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Release of 'Psycho'",
+      "description": "Alfred Hitchcock's 'Psycho' premiered, revolutionizing the horror genre with its innovative storytelling and shocking twists.",
+      "date": "1960-09-08",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Psycho",
+        "Alfred Hitchcock",
+        "Horror"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Release of 'The Silence of the Lambs'",
+      "description": "Jonathan Demme's 'The Silence of the Lambs' premiered, becoming a critical and commercial success and winning multiple Academy Awards.",
+      "date": "1991-02-14",
+      "type": "Movie",
+      "location": "New York City, USA",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "The Silence of the Lambs",
+        "Jonathan Demme",
+        "Horror"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "First Viking Raid on Lindisfarne",
+      "description": "The first Viking raid on the monastery of Lindisfarne occurred, marking the beginning of the Viking Age in Europe.",
+      "date": "0793-06-07",
+      "type": "Cultural",
+      "location": "Lindisfarne, England",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Viking Raid",
+        "Lindisfarne",
+        "Viking Age"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Crowning of Charlemagne",
+      "description": "Charlemagne was crowned Emperor of the Romans by Pope Leo III on Christmas Day, marking the revival of the Western Roman Empire.",
+      "date": "0800-12-24",
+      "type": "Cultural",
+      "location": "Rome, Italy",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Charlemagne",
+        "Emperor",
+        "Western Roman Empire"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Enthronement of Emperor Taizong of Tang",
+      "description": "Emperor Taizong of Tang, born Li Shimin, was enthroned and ushered in a golden age of culture and prosperity during the Tang Dynasty.",
+      "date": "0626-09-03",
+      "type": "Cultural",
+      "location": "Chang'an, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Taizong of Tang",
+        "Tang Dynasty",
+        "Golden Age"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Enthronement of Emperor Taizu of Song",
+      "description": "Emperor Taizu of Song, also known as Zhao Kuangyin, was enthroned as the founder of the Song Dynasty, establishing a period of economic and cultural growth.",
+      "date": "0960-02-03",
+      "type": "Cultural",
+      "location": "Kaifeng, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Taizu of Song",
+        "Song Dynasty",
+        "Founding Emperor"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Enthronement of Emperor Hongwu of Ming",
+      "description": "Emperor Hongwu, born Zhu Yuanzhang, was enthroned as the founding emperor of the Ming Dynasty after leading a rebellion against the Yuan Dynasty.",
+      "date": "1368-01-22",
+      "type": "Cultural",
+      "location": "Nanjing, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Hongwu Emperor",
+        "Ming Dynasty",
+        "Founding Emperor"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Enthronement of Emperor Gaozu of Han",
+      "description": "Emperor Gaozu of Han, also known as Liu Bang, was enthroned as the founder of the Han Dynasty, after defeating the Qin Dynasty.",
+      "date": "0202-02-27",
+      "type": "Cultural",
+      "location": "Chang'an, China",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Gaozu of Han",
+        "Han Dynasty",
+        "Founding Emperor"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Enthronement of Emperor Ashoka the Great",
+      "description": "Emperor Ashoka, also known as Ashoka the Great, was enthroned as the third ruler of the Maurya Empire, promoting Buddhism and establishing a period of peace and prosperity.",
+      "date": "0268-03-03",
+      "type": "Cultural",
+      "location": "Pataliputra, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Ashoka the Great",
+        "Maurya Empire",
+        "Buddhism"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Enthronement of Emperor Justinian I",
+      "description": "Emperor Justinian I was enthroned as the Byzantine Emperor, known for his efforts to restore the Roman Empire and his codification of Roman law.",
+      "date": "0527-07-31",
+      "type": "Cultural",
+      "location": "Constantinople, Byzantine Empire",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Justinian I",
+        "Byzantine Empire",
+        "Roman Law"
+      ]
+    },
+    {
+      "id": 261,
+      "name": "Enthronement of Emperor Akbar the Great",
+      "description": "Emperor Akbar, also known as Akbar the Great, was enthroned as the third Mughal Emperor, known for his religious tolerance and administrative reforms.",
+      "date": "1556-02-10",
+      "type": "Cultural",
+      "location": "Delhi, India",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "Akbar the Great",
+        "Mughal Empire",
+        "Religious Tolerance"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "TODAY",
+      "description": "Today is the day",
+      "date": "2024-08-12",
+      "type": "todayness",
+      "location": "Galesburg, IL",
+      "username": "admin",
+      "everyYear": true,
+      "tags": [
+        "today"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Battle of Hastings",
+      "description": "The Battle of Shitbird was fought between Shitbirdians and the Fartknockers",
+      "date": "1066-08-08",
+      "type": "Battle",
+      "location": "Hastings, England",
+      "username": "jspacco",
+      "everyYear": true,
+      "tags": [
+        "battle",
+        "england",
+        "medieval"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Battle of Hastings",
+      "description": "The Battle of Shitbird was fought between Shitbirdians and the Fartknockers",
+      "date": "1066-08-08",
+      "type": "Battle",
+      "location": "Hastings, England",
+      "username": "jspacco",
+      "everyYear": true,
+      "tags": [
+        "battle",
+        "england",
+        "medieval"
+      ]
+    }
+  ]
