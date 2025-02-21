@@ -1,0 +1,39 @@
+import greenfoot.*;
+
+/**
+ * Write a description of class Background here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Background extends World
+{
+
+    /**
+     * Constructor for objects of class Background.
+     * 
+     */
+    public Background()
+    {    
+        // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
+        super(700, 388, 1); 
+
+        prepare();
+    }
+
+    /**
+     * Prepare the world for the start of the program. That is: create the initial
+     * objects and add them to the world.
+     */
+    private void prepare()
+    {
+        Cannon cannon = new Cannon();
+        addObject(cannon, 63, 327);
+        Bird bird = new Bird();
+        addObject(bird, 528, 137);
+        Bird bird2 = new Bird();
+        addObject(bird2, 579, 282);
+        Bird bird3 = new Bird();
+        addObject(bird3, 412, 119);
+    }
+}

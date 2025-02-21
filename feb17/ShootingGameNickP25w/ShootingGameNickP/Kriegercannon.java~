@@ -1,0 +1,42 @@
+import greenfoot.*;
+
+/**
+ * Write a description of class kriegercannon here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Kriegercannon extends Mover
+{
+    private int life = Greenfoot.getRandomNumber(10) + 10;
+    /**
+     * Act - do whatever the Kriegercannon wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act() 
+    {
+        move(10);
+        splatter();
+
+    }    
+
+    public void splatter()
+    {
+        if (isTouching(Bird.class))
+        {
+            Krieger krieger = new Krieger();
+            getWorld().addObject(krieger, getX(), getY());
+            removeTouching(Bird.class);
+            //removeTouching(Krieger.class);
+            //Greenfoot.delay(5);
+            getWorld().removeObjects(getWorld().getObjects(Krieger.class));
+            
+        }
+        if (atWorldEdge())
+        {
+            
+            getWorld().removeObject(this);
+        }
+    }
+
+}

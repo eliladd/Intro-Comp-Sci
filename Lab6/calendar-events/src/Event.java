@@ -14,7 +14,28 @@ import jakarta.persistence.Convert;
 
 /**
  * Event model class.
- * 
+ * //count the tag with the most occurrences
+    public static void MostCommonTag(List<Event> events) throws Exception{
+        int num = 0;
+        String mostCommonTag = "";
+        int mostCommonTagCount = 0;
+        ArrayList<String> tags = new ArrayList<String>();
+        for (Event event : events){
+            for (String tag : event.getTags()){
+                for(Event event2 : events){
+                    if (event2.getTags().contains(tag)){
+                        num++;
+                    }
+                }
+                if (num > mostCommonTagCount){
+                    mostCommonTag = tag;
+                    mostCommonTagCount = num;
+                }
+            }
+        }
+        System.out.println("Most common tag: " + mostCommonTag);
+        System.out.println("It had " + mostCommonTagCount + " occurrences");
+    }
  * Students do not need to change this class.
  */
 public class Event

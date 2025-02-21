@@ -11,14 +11,20 @@ public class AnalyzeEventDataEasy
 
         //TODO: Uncomment method you want to call
         maxMinAverage(events);
+        System.out.println("__________________________");
         maxMinAverageForSpisificSubSet(events, "Japan");
-        countTagOccurences(events);
-        countEventsWithTag(events, "Japan");
+        System.out.println("__________________________");
         countSubmissions(events, "ekladd");
         countSubmissions(events, "mtahir");
-        countUniqueEvents(events);
-        countEventsWithTag(events, "AI");
-        countTagOccurences(events);
+        countSubmissions(events, "admin");
+        System.out.println("__________________________");
+        System.out.println("there are " + countUniqueEvents(events)+" unique events");
+        System.out.println("__________________________");
+        System.out.println("there are " + countEventsWithTag(events, "AI") + " events with the tag AI");
+        System.out.println("there are " + countEventsWithTag(events, "Peace") + " events with the tag Peace");
+        System.out.println("__________________________");
+        mostCommonLoc(events);
+        System.out.println("__________________________");
 
         //countBirthdays(events);
         
@@ -216,7 +222,7 @@ public class AnalyzeEventDataEasy
                     max = event.getTags().size();
                 }
             }
-            System.out.println(numtotaltags);
+            //System.out.println(numtotaltags);
         }
         average = numtotaltags/numcorrectevents;
         System.out.println("Smallest number of tags per event of subset " + subset+": " + min);
@@ -258,32 +264,27 @@ public class AnalyzeEventDataEasy
         }
         return num;
     }
-    //count the tag with the most occurrences
-    public static void countTagOccurences(List<Event> events) throws Exception{
-        int num = 0;
-        String mostCommonTag = "";
-        int mostCommonTagCount = 0;
-        ArrayList<String> tags = new ArrayList<String>();
+    //Find the top 3 most common locations without using a hashmap
+    public static void mostCommonLoc(List<Event> events) throws Exception{
+        String currentLoc = "";
+        String mostCommonLoc = "";
+        int currentCount = 0;
+        int mostCommonCount = 0;
         for (Event event : events){
-            for (String tag : event.getTags()){
-                for(Event event2 : events){
-                    if (event2.getTags().contains(tag)){
-                        num++;
-                    }
-                }
-                if (num > mostCommonTagCount){
-                    mostCommonTag = tag;
-                    mostCommonTagCount = num;
+            currentLoc = event.getLocation();
+            for (Event event2 : events){
+                if(currentLoc == event2.getLocation()){
+                    currentCount++;
                 }
             }
+            if(currentCount > mostCommonCount){
+                mostCommonLoc = currentLoc;
+                mostCommonCount = currentCount;
+                currentCount = 0;
+            }
         }
-        System.out.println("Most common tag: " + mostCommonTag);
-        System.out.println("It had " + mostCommonTagCount + " occurrences");
+        System.out.println("the most common location is " + mostCommonLoc + " with " + mostCommonCount + " occurences");
     }
-
-
-
-
     
 
 }
